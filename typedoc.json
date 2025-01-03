@@ -1,11 +1,10 @@
 {
   "$schema": "https://typedoc.org/schema.json",
-  "name": "Temporal Utils by Ian Macalinao",
+  "name": "Philippines Bank Codes TypeScript API documentation",
   "out": "docs",
   "entryPoints": ["packages/*"],
   "entryPointStrategy": "packages",
   "packageOptions": {
     "entryPoints": ["src/index.ts"]
-  },
-  "cname": "temporal.ianm.com"
+  }
 }
