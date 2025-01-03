@@ -1,6 +1,6 @@
 # @qrph/bank-codes
 
-Library for parsing and encoding QR Ph strings.
+Library containing a list of SWIFT codes used in the Philippines.
 
 ## License
 
