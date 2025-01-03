@@ -1,0 +1,49 @@
+{
+  "name": "@qrph/bank-codes",
+  "description": "Library containing a list of SWIFT codes used in the Philippines.",
+  "author": "Ian Macalinao <me@ianm.com>",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "type": "module",
+  "sideEffects": false,
+  "files": [
+    "dist/",
+    "src/",
+    "README.md"
+  ],
+  "keywords": [
+    "bank",
+    "philippines",
+    "swift"
+  ],
+  "dependencies": {
+    "tslib": "^2.8.1"
+  },
+  "devDependencies": {
+    "@macalinao/eslint-config": "^4.0.1",
+    "@macalinao/tsconfig": "^3.0.0",
+    "eslint": "^9.17.0",
+    "typescript": "^5.7.2"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "clean": "tsc --build --clean && rm -fr dist/",
+    "lint": "eslint ."
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": "eslint --fix",
+    "*.{md,json}": "prettier --write"
+  }
+}

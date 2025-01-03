@@ -1,0 +1,3485 @@
+# Full List of Philippines Bank Codes
+
+Below is a list of Philippines bank codes (SWIFT codes).
+
+## AASQPHM1
+
+- **Name:** AAA SOUTHEAST EQUITIES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** AASQPHM1
+- **SWIFT branch code:** AASQPHM1XXX
+
+## ABAEPHM1
+
+- **Name:** ABACUS SECURITIES CORP.
+- **City:** CITY OF PASIG
+- **SWIFT code:** ABAEPHM1
+- **SWIFT branch code:** ABAEPHM1XXX
+
+## ABTZPH21
+
+- **Name:** ABOITIZ EQUITY VENTURES INC.
+- **City:** CITY OF CEBU
+- **SWIFT code:** ABTZPH21
+- **SWIFT branch code:** ABTZPH21XXX
+
+## ACICPHM1
+
+- **Name:** ABACUS CAPITAL AND INVESTMENT CORPORATION
+- **City:** CITY OF PASIG
+- **SWIFT code:** ACICPHM1
+- **SWIFT branch code:** ACICPHM1XXX
+
+## ACKEPHM1
+
+- **Name:** I. ACKERMAN AND CO INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ACKEPHM1
+- **SWIFT branch code:** ACKEPHM1XXX
+
+## AGBUPHM1
+
+- **Name:** AGRIBUSINESS RURAL BANK, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** AGBUPHM1
+- **SWIFT branch code:** AGBUPHM1XXX
+
+## AIACPHM1GIO
+
+- **Name:** AIA PHILIPPINES
+- **City:** CITY OF TAGUIG
+- **Branch:** GENERAL INVESTMENT OPERATIONS
+- **SWIFT code:** AIACPHM1GIO
+
+## AIACPHMM
+
+- **Name:** AIA PHILIPPINES
+- **City:** CITY OF MAKATI
+- **SWIFT code:** AIACPHMM
+- **SWIFT branch code:** AIACPHMMXXX
+
+## AIIPPHM1
+
+- **Name:** AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES
+- **City:** CITY OF MAKATI
+- **SWIFT code:** AIIPPHM1
+- **SWIFT branch code:** AIIPPHM1XXX
+
+## AIIPPHMM
+
+- **Name:** AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES
+- **City:** CITY OF MAKATI
+- **SWIFT code:** AIIPPHMM
+- **SWIFT branch code:** AIIPPHMMXXX
+
+## ALKBPHM2
+
+- **Name:** ALLBANK (A THRIFT BANK) INC
+- **City:** CITY OF MANDALUYONG
+- **SWIFT code:** ALKBPHM2
+- **SWIFT branch code:** ALKBPHM2XXX
+
+## ALPCPHM1
+
+- **Name:** ALPHA SECURITIES CORP.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ALPCPHM1
+- **SWIFT branch code:** ALPCPHM1XXX
+
+## ALSGPHM1
+
+- **Name:** ALLIED SAVINGS BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ALSGPHM1
+- **SWIFT branch code:** ALSGPHM1XXX
+
+## AMONPHM1
+
+- **Name:** AMON SECURITIES CORP.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** AMONPHM1
+- **SWIFT branch code:** AMONPHM1XXX
+
+## ANGPPHM1
+
+- **Name:** ANGPING AND ASSO. SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** ANGPPHM1
+- **SWIFT branch code:** ANGPPHM1XXX
+
+## ANSCPHM1
+
+- **Name:** AB CAPITAL SECURITIES INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** ANSCPHM1
+- **SWIFT branch code:** ANSCPHM1XXX
+
+## ANSGPHM1
+
+- **Name:** ANSALDO, GODINEZ AND COMPANY, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** ANSGPHM1
+- **SWIFT branch code:** ANSGPHM1XXX
+
+## ANZBPHMX
+
+- **Name:** AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ANZBPHMX
+- **SWIFT branch code:** ANZBPHMXXXX
+
+## APCEPHM1
+
+- **Name:** ASIA PACIFIC CAPITAL EQUITIES AND SEC. CORP.
+- **City:** CITY OF QUEZON
+- **SWIFT code:** APCEPHM1
+- **SWIFT branch code:** APCEPHM1XXX
+
+## APHIPHM2
+
+- **Name:** ALIPAY PHILIPPINES INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** APHIPHM2
+- **SWIFT branch code:** APHIPHM2XXX
+
+## APHIPHM3
+
+- **Name:** ALIPAY PHILIPPINES INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** APHIPHM3
+- **SWIFT branch code:** APHIPHM3XXX
+
+## ARMEPHM1
+
+- **Name:** ARMSTRONG SECURITIES INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** ARMEPHM1
+- **SWIFT branch code:** ARMEPHM1XXX
+
+## ASDBPHMM
+
+- **Name:** ASIAN DEVELOPMENT BANK
+- **City:** CITY OF MANDALUYONG
+- **SWIFT code:** ASDBPHMM
+- **SWIFT branch code:** ASDBPHMMXXX
+
+## ASDVPHM1
+
+- **Name:** NEXTGENESIS CORPORATION
+- **City:** CITY OF QUEZON
+- **SWIFT code:** ASDVPHM1
+- **SWIFT branch code:** ASDVPHM1XXX
+
+## ASESPHM1
+
+- **Name:** ASIASEC EQUITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** ASESPHM1
+- **SWIFT branch code:** ASESPHM1XXX
+
+## ASIIPHM1
+
+- **Name:** D'ASIAN HILLS BANK INC.
+- **City:** CITY OF MALAYBALAY
+- **SWIFT code:** ASIIPHM1
+- **SWIFT branch code:** ASIIPHM1XXX
+
+## ASISPHM1
+
+- **Name:** ASI SECURITIES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ASISPHM1
+- **SWIFT branch code:** ASISPHM1XXX
+
+## ASTSPHM1
+
+- **Name:** ASTRA SECURITIES CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** ASTSPHM1
+- **SWIFT branch code:** ASTSPHM1XXX
+
+## ATCSPHM1
+
+- **Name:** ATC SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** ATCSPHM1
+- **SWIFT branch code:** ATCSPHM1XXX
+
+## ATDBPHM1
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF QUEZON
+- **SWIFT code:** ATDBPHM1
+- **SWIFT branch code:** ATDBPHM1XXX
+
+## ATDBPHM10M2
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF ANTIPOLO
+- **SWIFT code:** ATDBPHM10M2
+
+## ATDBPHM10M3
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF BACOOR
+- **SWIFT code:** ATDBPHM10M3
+
+## ATDBPHM10M4
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF CALOOCAN
+- **SWIFT code:** ATDBPHM10M4
+
+## ATDBPHM10M5
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF ANTIPOLO
+- **Branch:** MASINAG BRANCH
+- **SWIFT code:** ATDBPHM10M5
+
+## ATDBPHM10M6
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF QUEZON
+- **Branch:** NEW MANILA BRANCH
+- **SWIFT code:** ATDBPHM10M6
+
+## ATDBPHM10M7
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF PASAY
+- **SWIFT code:** ATDBPHM10M7
+
+## ATDBPHM10M8
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF QUEZON
+- **Branch:** DEL MONTE BRANCH
+- **SWIFT code:** ATDBPHM10M8
+
+## ATDBPHM10MA
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF QUEZON
+- **Branch:** ROOSEVELT BRANCH
+- **SWIFT code:** ATDBPHM10MA
+
+## ATDBPHM10MB
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF MANILA
+- **Branch:** SALCEDO BRANCH
+- **SWIFT code:** ATDBPHM10MB
+
+## ATDBPHM10MC
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF SAN JUAN
+- **SWIFT code:** ATDBPHM10MC
+
+## ATDBPHM10MD
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF TUGUEGARAO
+- **SWIFT code:** ATDBPHM10MD
+
+## ATDBPHM10ME
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF MANILA
+- **Branch:** TUTUBAN CENTERMALL BRANCH
+- **SWIFT code:** ATDBPHM10ME
+
+## ATDBPHM10MF
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF VALENZUELA
+- **SWIFT code:** ATDBPHM10MF
+
+## ATDBPHM10MM
+
+- **Name:** ASIATRUST BANK
+- **City:** CITY OF MANILA
+- **Branch:** PASONG TAMO BRANCH
+- **SWIFT code:** ATDBPHM10MM
+
+## ATSCPHM1
+
+- **Name:** MAYBANK ATR KIM ENG SECURITIES, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ATSCPHM1
+- **SWIFT branch code:** ATSCPHM1XXX
+
+## AUBKPHMM
+
+- **Name:** ASIA UNITED BANK CORPORATION
+- **City:** CITY OF PASIG
+- **SWIFT code:** AUBKPHMM
+- **SWIFT branch code:** AUBKPHMMXXX
+
+## AURSPHM1
+
+- **Name:** AURORA SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** AURSPHM1
+- **SWIFT branch code:** AURSPHM1XXX
+
+## AYCOPHMM
+
+- **Name:** AYALA CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** AYCOPHMM
+- **SWIFT branch code:** AYCOPHMMXXX
+
+## BADGPHM1
+
+- **Name:** BANCODIPOLOG, INC.
+- **City:** CITY OF DIPOLOG
+- **SWIFT code:** BADGPHM1
+- **SWIFT branch code:** BADGPHM1XXX
+
+## BARNPHM1
+
+- **Name:** J.M. BARCELON AND CO INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** BARNPHM1
+- **SWIFT branch code:** BARNPHM1XXX
+
+## BATSPHM1
+
+- **Name:** BRITISH AMERICAN TOBACCO PHILIPPINES LTD.
+- **City:** CITY OF MUNTINLUPA
+- **SWIFT code:** BATSPHM1
+- **SWIFT branch code:** BATSPHM1XXX
+
+## BATTPHM1
+
+- **Name:** B A SECURITIES INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** BATTPHM1
+- **SWIFT branch code:** BATTPHM1XXX
+
+## BBOAPHM1
+
+- **Name:** BSP BRANCH OPEN ACCOUNT SPC
+- **City:** CITY OF QUEZON
+- **SWIFT code:** BBOAPHM1
+- **SWIFT branch code:** BBOAPHM1XXX
+
+## BDESPHM1
+
+- **Name:** BDO ELITE SAVINGS BANK, INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** BDESPHM1
+- **SWIFT branch code:** BDESPHM1XXX
+
+## BDSCPHM1
+
+- **Name:** BDO SECURITIES CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BDSCPHM1
+- **SWIFT branch code:** BDSCPHM1XXX
+
+## BELCPHM1
+
+- **Name:** BELSON SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** BELCPHM1
+- **SWIFT branch code:** BELCPHM1XXX
+
+## BENCPHM1
+
+- **Name:** H.E. BENNETT SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** BENCPHM1
+- **SWIFT branch code:** BENCPHM1XXX
+
+## BENJPHM1
+
+- **Name:** BENJAMIN CO CA AND CO INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** BENJPHM1
+- **SWIFT branch code:** BENJPHM1XXX
+
+## BEREPHM1
+
+- **Name:** BERNAD SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** BEREPHM1
+- **SWIFT branch code:** BEREPHM1XXX
+
+## BFSCPHM1
+
+- **Name:** BFE FINANCIAL SVCS. AND CONSULTANCY, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BFSCPHM1
+- **SWIFT branch code:** BFSCPHM1XXX
+
+## BFSRPHM2
+
+- **Name:** BANANA FINTECH SERVICES CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BFSRPHM2
+- **SWIFT branch code:** BFSRPHM2XXX
+
+## BHCHPHM1
+
+- **Name:** B. H. CHUA SECURITIES CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** BHCHPHM1
+- **SWIFT branch code:** BHCHPHM1XXX
+
+## BHFUPHM1
+
+- **Name:** PROVIDENT FUND OFFICE (BSP-PFO)
+- **City:** CITY OF MANILA
+- **SWIFT code:** BHFUPHM1
+- **SWIFT branch code:** BHFUPHM1XXX
+
+## BIURPHM2
+
+- **Name:** BINAN RURAL BANK, INC.
+- **City:** CITY OF BINAN
+- **SWIFT code:** BIURPHM2
+- **SWIFT branch code:** BIURPHM2XXX
+
+## BIUUPHM1
+
+- **Name:** BINANGONAN RURAL BANK, INC
+- **City:** CITY OF ANTIPOLO
+- **SWIFT code:** BIUUPHM1
+- **SWIFT branch code:** BIUUPHM1XXX
+
+## BKCHPHMM
+
+- **Name:** BANK OF CHINA (HONG KONG) LIMITED - MANILA BRANCH
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** BKCHPHMM
+- **SWIFT branch code:** BKCHPHMMXXX
+
+## BKCHPHMMRTS
+
+- **Name:** BANK OF CHINA (HONG KONG) LIMITED - MANILA BRANCH
+- **City:** TAGUIG CITY
+- **Branch:** BANK OF CHINA LIMITED MANILA BRANCH RMB CLEARING CENTER
+- **SWIFT code:** BKCHPHMMRTS
+
+## BKKBPHMM
+
+- **Name:** BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BKKBPHMM
+- **SWIFT branch code:** BKKBPHMMXXX
+
+## BKRUPHM1
+
+- **Name:** BANCO BAKUN, INC. (A RURAL BANK)
+- **City:** CITY OF BAGUIO
+- **SWIFT code:** BKRUPHM1
+- **SWIFT branch code:** BKRUPHM1XXX
+
+## BNNNPH22
+
+- **Name:** BANCNET, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BNNNPH22
+- **SWIFT branch code:** BNNNPH22XXX
+
+## BNNNPHM2
+
+- **Name:** BANCNET, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BNNNPHM2
+- **SWIFT branch code:** BNNNPHM2XXX
+
+## BNORPHMM
+
+- **Name:** BDO UNIBANK, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BNORPHMM
+- **SWIFT branch code:** BNORPHMMXXX
+
+## BNPAPHMM
+
+- **Name:** BNP PARIBAS, MANILA OFFSHORE BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BNPAPHMM
+- **SWIFT branch code:** BNPAPHMMXXX
+
+## BOFAPH2X
+
+- **Name:** BANK OF AMERICA, N.A. MANILA
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BOFAPH2X
+- **SWIFT branch code:** BOFAPH2XXXX
+
+## BOPBPHMM
+
+- **Name:** BDO PRIVATE BANK INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BOPBPHMM
+- **SWIFT branch code:** BOPBPHMMXXX
+
+## BOPIPHMM
+
+- **Name:** BANK OF THE PHILIPPINE ISLANDS
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BOPIPHMM
+- **SWIFT branch code:** BOPIPHMMXXX
+
+## BOPIPHMMTRY
+
+- **Name:** BANK OF THE PHILIPPINE ISLANDS
+- **City:** CITY OF MAKATI
+- **Branch:** TREASURY GROUP
+- **SWIFT code:** BOPIPHMMTRY
+
+## BORRPHM1
+
+- **Name:** BOF, INC. (A RURAL BANK)
+- **City:** CITY OF SAN FERNANDO
+- **SWIFT code:** BORRPHM1
+- **SWIFT branch code:** BORRPHM1XXX
+
+## BOTKPHMM
+
+- **Name:** MUFG BANK, LTD., MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **Branch:** MANILA BRANCH
+- **SWIFT code:** BOTKPHMM
+- **SWIFT branch code:** BOTKPHMMXXX
+
+## BPCNPHM1
+
+- **Name:** BPI CARD FINANCE
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BPCNPHM1
+- **SWIFT branch code:** BPCNPHM1XXX
+
+## BPDIPHM1
+
+- **Name:** BPI DIRECT
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BPDIPHM1
+- **SWIFT branch code:** BPDIPHM1XXX
+
+## BPFFPHM1
+
+- **Name:** BPI FAMILY BANK
+- **City:** CITY OF MANILA
+- **SWIFT code:** BPFFPHM1
+- **SWIFT branch code:** BPFFPHM1XXX
+
+## BPFSPHM1
+
+- **Name:** BPI FAMILY SAVINGS BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BPFSPHM1
+- **SWIFT branch code:** BPFSPHM1XXX
+
+## BPGOPHM1
+
+- **Name:** BPI GLOBE BANKO INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BPGOPHM1
+- **SWIFT branch code:** BPGOPHM1XXX
+
+## BPISPHM1
+
+- **Name:** BPI SECURITIES CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** BPISPHM1
+- **SWIFT branch code:** BPISPHM1XXX
+
+## BPLIPHM1
+
+- **Name:** BPI LEASING CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** BPLIPHM1
+- **SWIFT branch code:** BPLIPHM1XXX
+
+## BPPSPHM1
+
+- **Name:** BNP PARIBAS PEREGRINE SECURITIES, INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BPPSPHM1
+- **SWIFT branch code:** BPPSPHM1XXX
+
+## BPRFPHM1
+
+- **Name:** BSP PROVIDENT FUND
+- **City:** CITY OF MANILA
+- **SWIFT code:** BPRFPHM1
+- **SWIFT branch code:** BPRFPHM1XXX
+
+## BROXPHM1
+
+- **Name:** BARCELON ROXAS SECURITIES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** BROXPHM1
+- **SWIFT branch code:** BROXPHM1XXX
+
+## BRULPHM1
+
+- **Name:** BALANGA RURAL BANK, INC.
+- **City:** CITY OF BALANGA
+- **SWIFT code:** BRULPHM1
+- **SWIFT branch code:** BRULPHM1XXX
+
+## BUTRPHM1
+
+- **Name:** BUREAU OF THE TREASURY
+- **City:** CITY OF MANILA
+- **SWIFT code:** BUTRPHM1
+- **SWIFT branch code:** BUTRPHM1XXX
+
+## CALAPHM1
+
+- **Name:** CAMPOS, LANUZA AND CO. INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** CALAPHM1
+- **SWIFT branch code:** CALAPHM1XXX
+
+## CALAPHM10M2
+
+- **Name:** CAMPOS, LANUZA AND CO. INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CALAPHM10M2
+
+## CAMZPHM2
+
+- **Name:** CARD MRI RIZAL BANK, INC.
+- **City:** SANTA CRUZ
+- **SWIFT code:** CAMZPHM2
+- **SWIFT branch code:** CAMZPHM2XXX
+
+## CASUPHM1
+
+- **Name:** A.T. DE CASTRO SECURITIES CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** CASUPHM1
+- **SWIFT branch code:** CASUPHM1XXX
+
+## CAVPPHM1
+
+- **Name:** AB CAPITAL AND INVESTMENT CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CAVPPHM1
+- **SWIFT branch code:** CAVPPHM1XXX
+
+## CBMFPHM1
+
+- **Name:** CARD BANK, INC. (A MICROFINANCE ORIENTED RURAL BANK)
+- **City:** CITY OF SAN PABLO
+- **SWIFT code:** CBMFPHM1
+- **SWIFT branch code:** CBMFPHM1XXX
+
+## CBSLPHM1
+
+- **Name:** COMMONWEALTH BANK/SAVINGS AND LOAN
+- **City:** CITY OF MANDALUYONG
+- **SWIFT code:** CBSLPHM1
+- **SWIFT branch code:** CBSLPHM1XXX
+
+## CCBCPHMM
+
+- **Name:** CHANG HWA COMMERCIAL BANK,LTD. MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CCBCPHMM
+- **SWIFT branch code:** CCBCPHMMXXX
+
+## CELRPHM1
+
+- **Name:** CEBUANA LHUILLIER RURAL BANK INC.
+- **City:** CITY OF BACOOR
+- **SWIFT code:** CELRPHM1
+- **SWIFT branch code:** CELRPHM1XXX
+
+## CENEPHM1
+
+- **Name:** CENTURY SECURITIES CORP.
+- **City:** CITY OF QUEZON
+- **SWIFT code:** CENEPHM1
+- **SWIFT branch code:** CENEPHM1XXX
+
+## CESNPHM1
+
+- **Name:** CENTURY SAVINGS BANK CORPORATION
+- **City:** CITY OF PASIG
+- **SWIFT code:** CESNPHM1
+- **SWIFT branch code:** CESNPHM1XXX
+
+## CFGOPHM1
+
+- **Name:** COL FINANCIAL GROUP, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** CFGOPHM1
+- **SWIFT branch code:** CFGOPHM1XXX
+
+## CHASPHMM
+
+- **Name:** JPMORGAN CHASE BANK, N.A., MANILA BRANCH
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** CHASPHMM
+- **SWIFT branch code:** CHASPHMMXXX
+
+## CHASPHMMENQ
+
+- **Name:** JPMORGAN CHASE BANK, N.A., MANILA BRANCH
+- **City:** CITY OF MANILA
+- **Branch:** TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+- **SWIFT code:** CHASPHMMENQ
+
+## CHASPHMMOBU
+
+- **Name:** JPMORGAN CHASE BANK, N.A., MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **Branch:** OFFHORE BANKING UNIT
+- **SWIFT code:** CHASPHMMOBU
+
+## CHASPHS1
+
+- **Name:** J.P. MORGAN SECURITIES PHILIPPINES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CHASPHS1
+- **SWIFT branch code:** CHASPHS1XXX
+
+## CHBKPHMM
+
+- **Name:** CHINA BANKING CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CHBKPHMM
+- **SWIFT branch code:** CHBKPHMMXXX
+
+## CHCSPHM1
+
+- **Name:** E. CHUA CHIACO SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** CHCSPHM1
+- **SWIFT branch code:** CHCSPHM1XXX
+
+## CHSVPHM1
+
+- **Name:** CHINA BANK SAVINGS, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CHSVPHM1
+- **SWIFT branch code:** CHSVPHM1XXX
+
+## CIPHPHM1
+
+- **Name:** CIMB BANK PHILIPPINES INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** CIPHPHM1
+- **SWIFT branch code:** CIPHPHM1XXX
+
+## CIPHPHMM
+
+- **Name:** CIMB BANK PHILIPPINES INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** CIPHPHMM
+- **SWIFT branch code:** CIPHPHMMXXX
+
+## CITIPH21
+
+- **Name:** CITIBANK SAVINGS INC.
+- **City:** CITY OF QUEZON
+- **SWIFT code:** CITIPH21
+- **SWIFT branch code:** CITIPH21XXX
+
+## CITIPHMX
+
+- **Name:** CITIBANK,N.A., MANILA BRANCH
+- **City:** CITY OF TAGUIG
+- **Branch:** HEAD OFFICE
+- **SWIFT code:** CITIPHMX
+- **SWIFT branch code:** CITIPHMXXXX
+
+## CITIPHMXCBU
+
+- **Name:** CITIBANK,N.A., MANILA BRANCH
+- **City:** CITY OF CEBU
+- **SWIFT code:** CITIPHMXCBU
+
+## CITIPHMXTSU
+
+- **Name:** CITIBANK,N.A., MANILA BRANCH
+- **City:** CITY OF MANILA
+- **Branch:** IBG-TREASURY SERVICES UNIT
+- **SWIFT code:** CITIPHMXTSU
+
+## CITRPHM1
+
+- **Name:** CITYTRUST SECURITIES CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** CITRPHM1
+- **SWIFT branch code:** CITRPHM1XXX
+
+## CITSPHM1
+
+- **Name:** CITISECURITIES INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** CITSPHM1
+- **SWIFT branch code:** CITSPHM1XXX
+
+## CIVAPHM1
+
+- **Name:** CITY SAVINGS BANK
+- **City:** CITY OF CEBU
+- **SWIFT code:** CIVAPHM1
+- **SWIFT branch code:** CIVAPHM1XXX
+
+## CIVVPHM1
+
+- **Name:** CITYSTATE SAVINGS BANK, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** CIVVPHM1
+- **SWIFT branch code:** CIVVPHM1XXX
+
+## CIYCPHM2
+
+- **Name:** CIS BAYAD CENTER, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** CIYCPHM2
+- **SWIFT branch code:** CIYCPHM2XXX
+
+## CLRAPH21
+
+- **Name:** CLASSIC RURAL BANK, INC.
+- **City:** CITY OF BATANGAS
+- **SWIFT code:** CLRAPH21
+- **SWIFT branch code:** CLRAPH21XXX
+
+## CLSAPHM1
+
+- **Name:** CLSA PHILIPPINES, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CLSAPHM1
+- **SWIFT branch code:** CLSAPHM1XXX
+
+## CNRLPHM1
+
+- **Name:** CANTILAN BANK, INC. (A RURAL BANK)
+- **City:** CITY OF BISLIG
+- **SWIFT code:** CNRLPHM1
+- **SWIFT branch code:** CNRLPHM1XXX
+
+## COBMPHM1
+
+- **Name:** BANK OF COMMERCE
+- **City:** CITY OF MAKATI
+- **SWIFT code:** COBMPHM1
+- **SWIFT branch code:** COBMPHM1XXX
+
+## COUKPHM1
+
+- **Name:** COUNTRY BUILDERS BANK INC. (A RURAL BANK)
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** COUKPHM1
+- **SWIFT branch code:** COUKPHM1XXX
+
+## COYAPHM2
+
+- **Name:** COOPERATIVE BANK OF CAGAYAN
+- **City:** CITY OF TUGUEGARAO
+- **SWIFT code:** COYAPHM2
+- **SWIFT branch code:** COYAPHM2XXX
+
+## COYIPHM1
+
+- **Name:** COYIUTO SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** COYIPHM1
+- **SWIFT branch code:** COYIPHM1XXX
+
+## CPBBPHM1
+
+- **Name:** UCPB SECURITIES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CPBBPHM1
+- **SWIFT branch code:** CPBBPHM1XXX
+
+## CPBOPHM1
+
+- **Name:** COOPERATIVE BANK OF BOHOL
+- **City:** CITY OF TAGBILARAN
+- **SWIFT code:** CPBOPHM1
+- **SWIFT branch code:** CPBOPHM1XXX
+
+## CPCTPHM1
+
+- **Name:** COOPERATIVE BANK OF COTABATO
+- **City:** CITY OF KIDAPAWAN
+- **SWIFT code:** CPCTPHM1
+- **SWIFT branch code:** CPCTPHM1XXX
+
+## CPHIPHMM
+
+- **Name:** PHILIPPINE BANK OF COMMUNICATIONS
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CPHIPHMM
+- **SWIFT branch code:** CPHIPHMMXXX
+
+## CRESPHM1
+
+- **Name:** CREDIT SUISSE SECURITIES (PHILIPPINES) INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CRESPHM1
+- **SWIFT branch code:** CRESPHM1XXX
+
+## CRMHPHM1
+
+- **Name:** CARD SME BANK, INC. A THRIFT BANK
+- **City:** CITY OF SANTO TOMAS
+- **SWIFT code:** CRMHPHM1
+- **SWIFT branch code:** CRMHPHM1XXX
+
+## CRSEPHM1
+
+- **Name:** CROSBY SECURITIES (PHILS) INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** CRSEPHM1
+- **SWIFT branch code:** CRSEPHM1XXX
+
+## CTCBPHMM
+
+- **Name:** CTBC BANK (PHILIPPINES) CORP.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** CTCBPHMM
+- **SWIFT branch code:** CTCBPHMMXXX
+
+## CUASPHM1
+
+- **Name:** CUALOPING SECURITIES CORP
+- **City:** CITY OF MANILA
+- **SWIFT code:** CUASPHM1
+- **SWIFT branch code:** CUASPHM1XXX
+
+## CUATPHM1
+
+- **Name:** MINDANAO CONSOLIDATED COOPERATIVE BANK
+- **City:** CITY OF CAGAYAN DE ORO
+- **SWIFT code:** CUATPHM1
+- **SWIFT branch code:** CUATPHM1XXX
+
+## CUOBPHM2
+
+- **Name:** COMMUNITY RURAL BANK OF ROMBLON (ROMBLON), INC
+- **City:** CITY OF ROMBLON
+- **SWIFT code:** CUOBPHM2
+- **SWIFT branch code:** CUOBPHM2XXX
+
+## DANIPHM1
+
+- **Name:** PT BANK DAGANG NASIONAL INDONESIA
+- **City:** CITY OF MANILA
+- **SWIFT code:** DANIPHM1
+- **SWIFT branch code:** DANIPHM1XXX
+
+## DAVSPHM1
+
+- **Name:** DAVID GO SECURITIES CORP
+- **City:** CITY OF MANILA
+- **SWIFT code:** DAVSPHM1
+- **SWIFT branch code:** DAVSPHM1XXX
+
+## DBPHPHMM
+
+- **Name:** DEVELOPMENT BANK OF THE PHILIPPINES
+- **City:** CITY OF MAKATI
+- **SWIFT code:** DBPHPHMM
+- **SWIFT branch code:** DBPHPHMMXXX
+
+## DBSHPHM1
+
+- **Name:** DBP-DAIWA CAPITAL MARKETS PHILIPPINES, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** DBSHPHM1
+- **SWIFT branch code:** DBSHPHM1XXX
+
+## DBSPPHM1
+
+- **Name:** DBS SECURITIES (PHILS) INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** DBSPPHM1
+- **SWIFT branch code:** DBSPPHM1XXX
+
+## DCDEPHM1
+
+- **Name:** DUMAGUETE CITY DEVELOPMENT BANK,INC
+- **City:** CITY OF DUMAGUETE
+- **SWIFT code:** DCDEPHM1
+- **SWIFT branch code:** DCDEPHM1XXX
+
+## DCPHPHM1
+
+- **Name:** DCPAY PHILIPPINES, INC
+- **City:** CITY OF PASIG
+- **SWIFT code:** DCPHPHM1
+- **SWIFT branch code:** DCPHPHM1XXX
+
+## DEUTPHMM
+
+- **Name:** DEUTSCHE BANK AG
+- **City:** CITY OF MANILA
+- **SWIFT code:** DEUTPHMM
+- **SWIFT branch code:** DEUTPHMMXXX
+
+## DHBIPHM1
+
+- **Name:** BDO UNIBANK, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** DHBIPHM1
+- **SWIFT branch code:** DHBIPHM1XXX
+
+## DHSPPHM1
+
+- **Name:** DHARMALA INTL. PHILS. INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** DHSPPHM1
+- **SWIFT branch code:** DHSPPHM1XXX
+
+## DIVSPHM1
+
+- **Name:** DIVERSIFIED SECURITIES INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** DIVSPHM1
+- **SWIFT branch code:** DIVSPHM1XXX
+
+## DSPHPHM1
+
+- **Name:** DBP-DAIWA CAPITAL MARKETS PHILIPPINES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** DSPHPHM1
+- **SWIFT branch code:** DSPHPHM1XXX
+
+## DUMTPHM1
+
+- **Name:** DUNGGANON BANK (A MICROFINANCE RURAL BANK) INC
+- **City:** CITY OF BACOLO
+- **SWIFT code:** DUMTPHM1
+- **SWIFT branch code:** DUMTPHM1XXX
+
+## EAGMPHM2
+
+- **Name:** EASYPAY GLOBAL EMI CORP.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** EAGMPHM2
+- **SWIFT branch code:** EAGMPHM2XXX
+
+## EASDPHM1
+
+- **Name:** EASTERN SECURITIES DEVELOPMENT CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** EASDPHM1
+- **SWIFT branch code:** EASDPHM1XXX
+
+## EAWCPHM1
+
+- **Name:** EAST WEST CAPITAL CORP
+- **City:** CITY OF MANILA
+- **SWIFT code:** EAWCPHM1
+- **SWIFT branch code:** EAWCPHM1XXX
+
+## EAWRPHM2
+
+- **Name:** EAST WEST RURAL BANK, INC.
+- **City:** CITY OF DAVAO
+- **SWIFT code:** EAWRPHM2
+- **SWIFT branch code:** EAWRPHM2XXX
+
+## ECASPHM2
+
+- **Name:** ECASHPAY ASIA INC
+- **City:** CITY OF QUEZON
+- **SWIFT code:** ECASPHM2
+- **SWIFT branch code:** ECASPHM2XXX
+
+## EISEPHM1
+
+- **Name:** EIB SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** EISEPHM1
+- **SWIFT branch code:** EISEPHM1XXX
+
+## ENRUPHM1
+
+- **Name:** ENTREPRENEUR RURAL BANK, INC.
+- **City:** CITY OF SAN PEDRO
+- **SWIFT code:** ENRUPHM1
+- **SWIFT branch code:** ENRUPHM1XXX
+
+## ENTHPHM1
+
+- **Name:** ENTERPRISE BANK INC. (A THRIFT BANK)
+- **City:** CITY OF LIANGA
+- **SWIFT code:** ENTHPHM1
+- **SWIFT branch code:** ENTHPHM1XXX
+
+## EQICPHM1
+
+- **Name:** SB EQUITIES INCORPORATED
+- **City:** CITY OF MAKATI
+- **SWIFT code:** EQICPHM1
+- **SWIFT branch code:** EQICPHM1XXX
+
+## EQSNPHM1
+
+- **Name:** EQUICOM SAVINGS BANK, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** EQSNPHM1
+- **SWIFT branch code:** EQSNPHM1XXX
+
+## EQSPPHM1
+
+- **Name:** EQUITABLE SECURITIES (PHILS.) INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** EQSPPHM1
+- **SWIFT branch code:** EQSPPHM1XXX
+
+## EQUSPHM1
+
+- **Name:** EQUITIWORLD SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** EQUSPHM1
+- **SWIFT branch code:** EQUSPHM1XXX
+
+## ESBEPHM1
+
+- **Name:** EVERGREEN STOCK BROKERAGE AND SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** ESBEPHM1
+- **SWIFT branch code:** ESBEPHM1XXX
+
+## EWBCPHMM
+
+- **Name:** EAST WEST BANKING CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** EWBCPHMM
+- **SWIFT branch code:** EWBCPHMMXXX
+
+## FCBKPHMM
+
+- **Name:** FIRST COMMERCIAL BANK, LTD., MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** FCBKPHMM
+- **SWIFT branch code:** FCBKPHMMXXX
+
+## FICEPHM1
+
+- **Name:** FIRST INTEGRATED CAPITAL SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** FICEPHM1
+- **SWIFT branch code:** FICEPHM1XXX
+
+## FINUPHM1
+
+- **Name:** FINVEST SECURITIES CO INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** FINUPHM1
+- **SWIFT branch code:** FINUPHM1XXX
+
+## FIOOPHM1
+
+- **Name:** FIRST CONSOLIDATED BANK INC.
+- **City:** CITY OF TAGBILARAN
+- **SWIFT code:** FIOOPHM1
+- **SWIFT branch code:** FIOOPHM1XXX
+
+## FIOSPHM1
+
+- **Name:** FIRST ORIENT SECURITIES INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** FIOSPHM1
+- **SWIFT branch code:** FIOSPHM1XXX
+
+## FIRRPHM1
+
+- **Name:** FIRST RESSOURCES MANAGEMENT AND SECURITIES CORPORATION,THE
+- **City:** CITY OF MANILA
+- **SWIFT code:** FIRRPHM1
+- **SWIFT branch code:** FIRRPHM1XXX
+
+## FMICPHM1
+
+- **Name:** FIRST METRO INVESTMENT CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** FMICPHM1
+- **SWIFT branch code:** FMICPHM1XXX
+
+## FMSOPHM1
+
+- **Name:** FIRST METRO SECURITIES BROKERAGE CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** FMSOPHM1
+- **SWIFT branch code:** FMSOPHM1XXX
+
+## FOTRPHM1
+
+- **Name:** FORTUNE SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** FOTRPHM1
+- **SWIFT branch code:** FOTRPHM1XXX
+
+## FRARPHM1
+
+- **Name:** FIRST AGRO-INDUSTRIAL RURAL BANK, INC. (FAIRBANK)
+- **City:** CITY OF BOGO
+- **SWIFT code:** FRARPHM1
+- **SWIFT branch code:** FRARPHM1XXX
+
+## FROEPHM1
+
+- **Name:** FRANCISCO ORTIGAS SECURITIES INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** FROEPHM1
+- **SWIFT branch code:** FROEPHM1XXX
+
+## FRUNPHM1
+
+- **Name:** FILIDIAN RURAL BANK OF ANTIPOLO,INC
+- **City:** CITY OF ANTIPOLO
+- **SWIFT code:** FRUNPHM1
+- **SWIFT branch code:** FRUNPHM1XXX
+
+## GARKPHM1
+
+- **Name:** GATEWAY RURAL BANK, INC. (GATEBANK)
+- **City:** CITY OF MALOLOS
+- **SWIFT code:** GARKPHM1
+- **SWIFT branch code:** GARKPHM1XXX
+
+## GEGSPHM1
+
+- **Name:** GENESIS GLOBAL SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** GEGSPHM1
+- **SWIFT branch code:** GEGSPHM1XXX
+
+## GEMPPH21
+
+- **Name:** GE MONEY BANK, INC. (A SAVINGS BANK)
+- **City:** CITY OF QUEZON
+- **SWIFT code:** GEMPPH21
+- **SWIFT branch code:** GEMPPH21XXX
+
+## GIMSPHM1
+
+- **Name:** I.B. GIMENEZ SECURITIES, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** GIMSPHM1
+- **SWIFT branch code:** GIMSPHM1XXX
+
+## GKGSPHM1
+
+- **Name:** G.K. GOH SECURITIES (PHILIPPINES) INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** GKGSPHM1
+- **SWIFT branch code:** GKGSPHM1XXX
+
+## GLSTPHM1
+
+- **Name:** GLOBALINKS SECURITIES AND STOCKS, INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** GLSTPHM1
+- **SWIFT branch code:** GLSTPHM1XXX
+
+## GLTEPHMT
+
+- **Name:** GLOBE TELECOM, INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** GLTEPHMT
+- **SWIFT branch code:** GLTEPHMTXXX
+
+## GOLCPHM1
+
+- **Name:** GOLDSTAR SECURITIES INC
+- **City:** CITY OF PASIG
+- **SWIFT code:** GOLCPHM1
+- **SWIFT branch code:** GOLCPHM1XXX
+
+## GOTYPHM2
+
+- **Name:** GOTYME BANK CORPORATION
+- **City:** CITY OF PASIG
+- **SWIFT code:** GOTYPHM2
+- **SWIFT branch code:** GOTYPHM2XXX
+
+## GPNEPHM2
+
+- **Name:** GPAY NETWORK PH, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** GPNEPHM2
+- **SWIFT branch code:** GPNEPHM2XXX
+
+## GRBUPHM1
+
+- **Name:** GUAGUA RURAL BANK, INC.
+- **City:** CITY OF ANGELES
+- **SWIFT code:** GRBUPHM1
+- **SWIFT branch code:** GRBUPHM1XXX
+
+## GSFAPHM1
+
+- **Name:** GSIS FAMILY BANK
+- **City:** CITY OF PASIG
+- **SWIFT code:** GSFAPHM1
+- **SWIFT branch code:** GSFAPHM1XXX
+
+## GUISPHM1
+
+- **Name:** GUILD SECURITIES INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** GUISPHM1
+- **SWIFT branch code:** GUISPHM1XXX
+
+## GUSPPHM1
+
+- **Name:** GUOCO SECURITIES (PHILS) INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** GUSPPHM1
+- **SWIFT branch code:** GUSPPHM1XXX
+
+## GXCHPHM2
+
+- **Name:** G-XCHANGE, INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** GXCHPHM2
+- **SWIFT branch code:** GXCHPHM2XXX
+
+## HBPHPHMM
+
+- **Name:** HSBC SAVINGS BANK (PHILIPINES) INC.
+- **City:** CITY OF MUNTINLUPA
+- **SWIFT code:** HBPHPHMM
+- **SWIFT branch code:** HBPHPHMMXXX
+
+## HDISPHM1
+
+- **Name:** HDI SECURITIES INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** HDISPHM1
+- **SWIFT branch code:** HDISPHM1XXX
+
+## HENEPHM1
+
+- **Name:** YU HENG SECURITIES INC.
+- **City:** CITY OF PASAY
+- **SWIFT code:** HENEPHM1
+- **SWIFT branch code:** HENEPHM1XXX
+
+## HISHPHM1
+
+- **Name:** HIGHLAND SECURITIES PHILS. INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** HISHPHM1
+- **SWIFT branch code:** HISHPHM1XXX
+
+## HIYCPHM1
+
+- **Name:** HIYAS BANKING CORPORATION
+- **City:** CITY OF SAN JOSE DEL MONTE
+- **SWIFT code:** HIYCPHM1
+- **SWIFT branch code:** HIYCPHM1XXX
+
+## HNBKPHMM
+
+- **Name:** HUA NAN COMMERCIAL BANK, LTD. MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** HNBKPHMM
+- **SWIFT branch code:** HNBKPHMMXXX
+
+## HSBCPHMM
+
+- **Name:** THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** HSBCPHMM
+- **SWIFT branch code:** HSBCPHMMXXX
+
+## HSBCPHMMCEB
+
+- **Name:** THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH
+- **City:** CITY OF CEBU
+- **Branch:** CEBU BRANCH
+- **SWIFT code:** HSBCPHMMCEB
+
+## HSBCPHMMSEC
+
+- **Name:** THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH
+- **City:** CITY OF PASIG
+- **Branch:** CUSTODY AND CLEARING
+- **SWIFT code:** HSBCPHMMSEC
+
+## HSBCPHMMTRY
+
+- **Name:** THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH
+- **City:** CITY OF MANILA
+- **Branch:** MNL TREASURY DEPARTMENT
+- **SWIFT code:** HSBCPHMMTRY
+
+## IBKOPHMM
+
+- **Name:** INDUSTRIAL BANK OF KOREA, MANILA BRANCH
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** IBKOPHMM
+- **SWIFT branch code:** IBKOPHMMXXX
+
+## ICBCPHMM
+
+- **Name:** MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ICBCPHMM
+- **SWIFT branch code:** ICBCPHMMXXX
+
+## ICBKPHMM
+
+- **Name:** INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, MANILA BRANCH
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** ICBKPHMM
+- **SWIFT branch code:** ICBKPHMMXXX
+
+## IFIPPHM2
+
+- **Name:** INFOSERVE INCORPORATED
+- **City:** CITY OF MAKATI
+- **SWIFT code:** IFIPPHM2
+- **SWIFT branch code:** IFIPPHM2XXX
+
+## IGCSPHM1
+
+- **Name:** IGC SECURITIES, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** IGCSPHM1
+- **SWIFT branch code:** IGCSPHM1XXX
+
+## ILSTPHM1
+
+- **Name:** CITIBANK SAVINGS INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** ILSTPHM1
+- **SWIFT branch code:** ILSTPHM1XXX
+
+## IMGAPHM1
+
+- **Name:** IMPERIAL DE GUZMAN, ABALOS AND CO INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** IMGAPHM1
+- **SWIFT branch code:** IMGAPHM1XXX
+
+## INBLPHM1
+
+- **Name:** MACQUARIE CAPITAL SECURITIES (PHILIPPINES) INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** INBLPHM1
+- **SWIFT branch code:** INBLPHM1XXX
+
+## INGBPHMM
+
+- **Name:** ING BANK N.V.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** INGBPHMM
+- **SWIFT branch code:** INGBPHMMXXX
+
+## INIEPHM1
+
+- **Name:** INTRA-INVEST SECURITIES INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** INIEPHM1
+- **SWIFT branch code:** INIEPHM1XXX
+
+## INVUPHM1
+
+- **Name:** INVESTORS SECURITIES INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** INVUPHM1
+- **SWIFT branch code:** INVUPHM1XXX
+
+## IORUPHM1
+
+- **Name:** INNOVATIVE BANK, INC. (A RURAL BANK)
+- **City:** CITY OF ANTIPOLO
+- **SWIFT code:** IORUPHM1
+- **SWIFT branch code:** IORUPHM1XXX
+
+## IREMPHM2
+
+- **Name:** I-REMIT, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** IREMPHM2
+- **SWIFT branch code:** IREMPHM2XXX
+
+## ISTHPHM1
+
+- **Name:** ISLA BANK (A THRIFT BANK), INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ISTHPHM1
+- **SWIFT branch code:** ISTHPHM1XXX
+
+## ISVBPHM1
+
+- **Name:** INSULAR SAVERS BANK, INC. (A RURAL BANK)
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** ISVBPHM1
+- **SWIFT branch code:** ISVBPHM1XXX
+
+## ITDEPHM2
+
+- **Name:** INTER-ASIA DEVELOPMENT BANK
+- **City:** CITY OF TAGAYTAY
+- **SWIFT code:** ITDEPHM2
+- **SWIFT branch code:** ITDEPHM2XXX
+
+## JARUPHM1
+
+- **Name:** JANIUAY RURAL BANK, INC.
+- **City:** CITY OF ILOILO
+- **SWIFT code:** JARUPHM1
+- **SWIFT branch code:** JARUPHM1XXX
+
+## KACUPHM2
+
+- **Name:** KATIPUNAN BANKING CORPORATION 'A RURAL BANK'
+- **City:** CITY OF DIPOLOG
+- **SWIFT code:** KACUPHM2
+- **SWIFT branch code:** KACUPHM2XXX
+
+## KARUPHM1
+
+- **Name:** BANGKO KABAYAN (A RURAL BANK) INC.
+- **City:** CITY OF BATANGAS
+- **SWIFT code:** KARUPHM1
+- **SWIFT branch code:** KARUPHM1XXX
+
+## KEYSPHM1
+
+- **Name:** KEY SECURITIES INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** KEYSPHM1
+- **SWIFT branch code:** KEYSPHM1XXX
+
+## KMESPHM1
+
+- **Name:** MAYBANK ATR KIM ENG SECURITIES, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** KMESPHM1
+- **SWIFT branch code:** KMESPHM1XXX
+
+## KOEXPHMM
+
+- **Name:** KEB HANA BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** KOEXPHMM
+- **SWIFT branch code:** KOEXPHMMXXX
+
+## KRBFPHM1
+
+- **Name:** KATIPUNAN BANK (ZN), INC. A RURAL BANK
+- **City:** CITY OF DIPOLOG
+- **SWIFT code:** KRBFPHM1
+- **SWIFT branch code:** KRBFPHM1XXX
+
+## LARCPHM1
+
+- **Name:** LARRGO SECURITIES CO INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** LARCPHM1
+- **SWIFT branch code:** LARCPHM1XXX
+
+## LAUIPHM2
+
+- **Name:** SEABANK PHILIPPINES
+- **City:** SANTA CRUZ
+- **SWIFT code:** LAUIPHM2
+- **SWIFT branch code:** LAUIPHM2XXX
+
+## LESIPHM1
+
+- **Name:** LEGAZPI SAVINGS BANK
+- **City:** City of Legazpi
+- **SWIFT code:** LESIPHM1
+- **SWIFT branch code:** LESIPHM1XXX
+
+## LFSHPHM2
+
+- **Name:** LULU FINANCIAL SERVICES (PHILS) INC
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** LFSHPHM2
+- **SWIFT branch code:** LFSHPHM2XXX
+
+## LILOPHM1
+
+- **Name:** RURAL BANK OF LILOY (ZN), INC
+- **City:** CITY OF DIPOLOG
+- **SWIFT code:** LILOPHM1
+- **SWIFT branch code:** LILOPHM1XXX
+
+## LIMSPHM1
+
+- **Name:** R.S. LIM AND CO. INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** LIMSPHM1
+- **SWIFT branch code:** LIMSPHM1XXX
+
+## LIRAPHM2
+
+- **Name:** LIFEBANK-A RURAL BANK
+- **City:** CITY OF ILOILO
+- **SWIFT code:** LIRAPHM2
+- **SWIFT branch code:** LIRAPHM2XXX
+
+## LIRRPHM1
+
+- **Name:** LIMCOMA RURAL BANK INC.
+- **City:** CITY OF BATANGAS
+- **SWIFT code:** LIRRPHM1
+- **SWIFT branch code:** LIRRPHM1XXX
+
+## LIRUPHM1
+
+- **Name:** LIPA BANK INC. -A RURAL BANK
+- **City:** CITY OF LIPA
+- **SWIFT code:** LIRUPHM1
+- **SWIFT branch code:** LIRUPHM1XXX
+
+## LITSPHM1
+
+- **Name:** LITONJUA SECURITIES INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** LITSPHM1
+- **SWIFT branch code:** LITSPHM1XXX
+
+## LOLLPHM1
+
+- **Name:** LOPEZ, LOCSIN, LEDESMA AND CO INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** LOLLPHM1
+- **SWIFT branch code:** LOLLPHM1XXX
+
+## LOLPPHM2
+
+- **Name:** LOLC BANK PHILIPPINES INC
+- **City:** CITY OF TANAUAN
+- **SWIFT code:** LOLPPHM2
+- **SWIFT branch code:** LOLPPHM2XXX
+
+## LPCRPHM2
+
+- **Name:** LAGUNA PRESTIGE BANKING CORPORATION A RURAL BANK
+- **City:** CITY OF CABUYAO
+- **SWIFT code:** LPCRPHM2
+- **SWIFT branch code:** LPCRPHM2XXX
+
+## LUCSPHM1
+
+- **Name:** LUCKY SECURITIES INC
+- **City:** CITY OF PASIG
+- **SWIFT code:** LUCSPHM1
+- **SWIFT branch code:** LUCSPHM1XXX
+
+## LUDVPHM1
+
+- **Name:** LUZON DEVELOPMENT BANK
+- **City:** CITY OF MANILA
+- **SWIFT code:** LUDVPHM1
+- **SWIFT branch code:** LUDVPHM1XXX
+
+## LURRPHM2
+
+- **Name:** GM BANK OF LUZON, INC. (A RURAL BANK)
+- **City:** CITY OF CABANATUAN
+- **SWIFT code:** LURRPHM2
+- **SWIFT branch code:** LURRPHM2XXX
+
+## LUYSPHM1
+
+- **Name:** LUY'S SECURITIES CO INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** LUYSPHM1
+- **SWIFT branch code:** LUYSPHM1XXX
+
+## MAARPHM1
+
+- **Name:** MALAYAN BANK SAVINGS AND MORTGAGE BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MAARPHM1
+- **SWIFT branch code:** MAARPHM1XXX
+
+## MABCPHM1
+
+- **Name:** MANILA BANKING CORP.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MABCPHM1
+- **SWIFT branch code:** MABCPHM1XXX
+
+## MAIEPHM1
+
+- **Name:** MARIAN SECURITIES INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MAIEPHM1
+- **SWIFT branch code:** MAIEPHM1XXX
+
+## MAKCPHM1
+
+- **Name:** MARK SECURITIES CORP
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MAKCPHM1
+- **SWIFT branch code:** MAKCPHM1XXX
+
+## MANUPHM1
+
+- **Name:** MANDARIN SECURITIES CORP
+- **City:** CITY OF MANILA
+- **SWIFT code:** MANUPHM1
+- **SWIFT branch code:** MANUPHM1XXX
+
+## MAYCPHM2
+
+- **Name:** MARCOPAY INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** MAYCPHM2
+- **SWIFT branch code:** MAYCPHM2XXX
+
+## MBBEPHMM
+
+- **Name:** MAYBANK PHILIPPINES, INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** MBBEPHMM
+- **SWIFT branch code:** MBBEPHMMXXX
+
+## MBTCPHMM
+
+- **Name:** METROPOLITAN BANK AND TRUST CO.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MBTCPHMM
+- **SWIFT branch code:** MBTCPHMMXXX
+
+## MCCEPHM1
+
+- **Name:** METROBANK CARD CORPORATION (A FINANCE CO.)
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MCCEPHM1
+- **SWIFT branch code:** MCCEPHM1XXX
+
+## MCCTPHMM
+
+- **Name:** MEGAWIDE CONSTRUCTION CORPORATION
+- **City:** CITY OF QUEZON
+- **SWIFT code:** MCCTPHMM
+- **SWIFT branch code:** MCCTPHMMXXX
+
+## MCRUPHM1
+
+- **Name:** 1ST MACRO BANK, INC. (A RURAL BANK)
+- **City:** CITY OF PATEROS
+- **SWIFT code:** MCRUPHM1
+- **SWIFT branch code:** MCRUPHM1XXX
+
+## MDRSPHM1
+
+- **Name:** MDR SECURITIES, INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** MDRSPHM1
+- **SWIFT branch code:** MDRSPHM1XXX
+
+## MEOPPHM2
+
+- **Name:** METRO SOUTH COOPERATIVE BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MEOPPHM2
+- **SWIFT branch code:** MEOPPHM2XXX
+
+## MERTPHM1
+
+- **Name:** MERIDIAN SECURITIES INC
+- **City:** CITY OF PASIG
+- **SWIFT code:** MERTPHM1
+- **SWIFT branch code:** MERTPHM1XXX
+
+## MERUPHM1
+
+- **Name:** MERCANTILE SECURITIES CORP
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MERUPHM1
+- **SWIFT branch code:** MERUPHM1XXX
+
+## MFCTPHMM
+
+- **Name:** THE MANUFACTURERS LIFE INSURANCE CO. (PHILS.), INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MFCTPHMM
+- **SWIFT branch code:** MFCTPHMMXXX
+
+## MGPSPHM1
+
+- **Name:** DEUTSCHE REGIS PARTNERS, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MGPSPHM1
+- **SWIFT branch code:** MGPSPHM1XXX
+
+## MHCBPHMM
+
+- **Name:** MIZUHO BANK, LTD., MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MHCBPHMM
+- **SWIFT branch code:** MHCBPHMMXXX
+
+## MIMVPHM1
+
+- **Name:** MICROFINANCE MAXIMUM SAVINGS BANK,INC.
+- **City:** CITY OF CALAPAN
+- **SWIFT code:** MIMVPHM1
+- **SWIFT branch code:** MIMVPHM1XXX
+
+## MIOCPHM1
+
+- **Name:** MINDANAO CONSOLIDATED COOPERATIVE BANK
+- **City:** CITY OF CAGAYAN DE ORO
+- **SWIFT code:** MIOCPHM1
+- **SWIFT branch code:** MIOCPHM1XXX
+
+## MKDCPHM2
+
+- **Name:** MAKILING DEVELOPMENT BANK CORPORATION
+- **City:** CITY OF CALAMBA
+- **SWIFT code:** MKDCPHM2
+- **SWIFT branch code:** MKDCPHM2XXX
+
+## MKRUPHM1
+
+- **Name:** BANK OF MAKATI (A SAVINGS BANK), INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MKRUPHM1
+- **SWIFT branch code:** MKRUPHM1XXX
+
+## MLRUPHM2
+
+- **Name:** MALARAYAT RURAL BANK, INC.
+- **City:** CITY OF LIPA
+- **SWIFT code:** MLRUPHM2
+- **SWIFT branch code:** MLRUPHM2XXX
+
+## MLSPPHM1
+
+- **Name:** MERRILL LYNCH SECURITIES PHILIPPINES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MLSPPHM1
+- **SWIFT branch code:** MLSPPHM1XXX
+
+## MOMLPHM2
+
+- **Name:** MONEY MALL RURAL BANK, INC.
+- **City:** CITY OF DAVAO
+- **SWIFT code:** MOMLPHM2
+- **SWIFT branch code:** MOMLPHM2XXX
+
+## MOPSPHM1
+
+- **Name:** MOUNT PEAK SECURITIES INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** MOPSPHM1
+- **SWIFT branch code:** MOPSPHM1XXX
+
+## MOUAPHM2
+
+- **Name:** BANGKO MONTANOSA, INC. A RURAL BANK
+- **City:** CITY OF TABUK
+- **SWIFT code:** MOUAPHM2
+- **SWIFT branch code:** MOUAPHM2XXX
+
+## MRALPHMM
+
+- **Name:** MANILA ELECTRIC COMPANY
+- **City:** CITY OF PASIG
+- **SWIFT code:** MRALPHMM
+- **SWIFT branch code:** MRALPHMMXXX
+
+## MRLCPHM2
+
+- **Name:** MACTAN RURAL BANK (LAPU-LAPU CITY) INC
+- **City:** CITY OF LAPU-LAPU
+- **SWIFT code:** MRLCPHM2
+- **SWIFT branch code:** MRLCPHM2XXX
+
+## MRTCPHM1
+
+- **Name:** BANGKO MABUHAY (A RURAL BANK), INC.
+- **City:** CITY OF CAVITE
+- **SWIFT code:** MRTCPHM1
+- **SWIFT branch code:** MRTCPHM1XXX
+
+## MSLSPHM1
+
+- **Name:** MERCHANTS SAVINGS AND LOAN ASSOCIATION, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MSLSPHM1
+- **SWIFT branch code:** MSLSPHM1XXX
+
+## MUIAPHM1
+
+- **Name:** MULTINATIONAL INVESTMENT BANCORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** MUIAPHM1
+- **SWIFT branch code:** MUIAPHM1XXX
+
+## MURLPHM1
+
+- **Name:** MUNICIPAL RURAL BANK OF LIBMANAN (CS), INC.
+- **City:** CITY OF LIBMANAN
+- **SWIFT code:** MURLPHM1
+- **SWIFT branch code:** MURLPHM1XXX
+
+## MVRSPHM2
+
+- **Name:** MVSM BANK (A RURAL BANK SINCE 1953)
+- **City:** CITY OF MARIKINA
+- **SWIFT code:** MVRSPHM2
+- **SWIFT branch code:** MVRSPHM2XXX
+
+## MYYAPHM2
+
+- **Name:** MAYA BANK, INC.
+- **City:** CITY OF MANDALUYONG
+- **SWIFT code:** MYYAPHM2
+- **SWIFT branch code:** MYYAPHM2XXX
+
+## NESNPHMN
+
+- **Name:** NESTLE BUSINESS SERVICES AOA INC
+- **City:** CITY OF MEYCAUAYAN
+- **SWIFT code:** NESNPHMN
+- **SWIFT branch code:** NESNPHMNXXX
+
+## NEWCPHM1
+
+- **Name:** NEW WORLD SECURITIES CO INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** NEWCPHM1
+- **SWIFT branch code:** NEWCPHM1XXX
+
+## NIESPHM1
+
+- **Name:** NIEVES SANCHEZ INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** NIESPHM1
+- **SWIFT branch code:** NIESPHM1XXX
+
+## NODVPHM1
+
+- **Name:** NORTHPOINT DEVELOPMENT BANK, INC.
+- **City:** CITY OF SAN PEDRO
+- **SWIFT code:** NODVPHM1
+- **SWIFT branch code:** NODVPHM1XXX
+
+## NRSLPHM1
+
+- **Name:** NEW RURAL BANK OF SAN LEONARDO (NE) INC.
+- **City:** CITY OF CABANATUAN
+- **SWIFT code:** NRSLPHM1
+- **SWIFT branch code:** NRSLPHM1XXX
+
+## NSPRPHM1
+
+- **Name:** BANGKO NUESTRA SENORA DEL PILAR INC. (A RURAL BANK)
+- **City:** CITY OF SAN SIMON
+- **SWIFT code:** NSPRPHM1
+- **SWIFT branch code:** NSPRPHM1XXX
+
+## NUBLPHM1
+
+- **Name:** R. NUBLA SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** NUBLPHM1
+- **SWIFT branch code:** NUBLPHM1XXX
+
+## OMLFPHM1
+
+- **Name:** ORIX METRO LEASING AND FINANCE CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** OMLFPHM1
+- **SWIFT branch code:** OMLFPHM1XXX
+
+## OMNPPHM2
+
+- **Name:** OMNIPAY, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** OMNPPHM2
+- **SWIFT branch code:** OMNPPHM2XXX
+
+## ONNRPHM1
+
+- **Name:** BDO NETWORK BANK, INC. (A RURAL BANK)
+- **City:** CITY OF DAVAO
+- **SWIFT code:** ONNRPHM1
+- **SWIFT branch code:** ONNRPHM1XXX
+
+## ONSTPHM1
+
+- **Name:** BANK ONE SAVINGS AND TRUST CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** ONSTPHM1
+- **SWIFT branch code:** ONSTPHM1XXX
+
+## OPDVPHM1
+
+- **Name:** OPTIMUM DEVELOPEMENT BANK. INC
+- **City:** CITY OF MANDALUYONG
+- **SWIFT code:** OPDVPHM1
+- **SWIFT branch code:** OPDVPHM1XXX
+
+## OPTMPHM1
+
+- **Name:** OPTIMUM SECURITIES CORP.
+- **City:** CITY OF PASIG
+- **SWIFT code:** OPTMPHM1
+- **SWIFT branch code:** OPTMPHM1XXX
+
+## ORIEPHM1
+
+- **Name:** ORIENTRADE SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** ORIEPHM1
+- **SWIFT branch code:** ORIEPHM1XXX
+
+## ORMQPHM1
+
+- **Name:** ORMON BANK RB OF MULANAY QUEZON INC.
+- **City:** CITY OF SAN PABLO
+- **SWIFT code:** ORMQPHM1
+- **SWIFT branch code:** ORMQPHM1XXX
+
+## ORSIPHM1
+
+- **Name:** BANCO DE ORO SAVINGS BANK, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** ORSIPHM1
+- **SWIFT branch code:** ORSIPHM1XXX
+
+## OSPNPHM1
+
+- **Name:** OCBC SECURITIES (PHILIPPINES) INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** OSPNPHM1
+- **SWIFT branch code:** OSPNPHM1XXX
+
+## OUBKPHM1
+
+- **Name:** OVERSEAS UNION BANK LIMITED, MANILA BRANCH
+- **City:** CITY OF MANILA
+- **SWIFT code:** OUBKPHM1
+- **SWIFT branch code:** OUBKPHM1XXX
+
+## OWNOPHM2
+
+- **Name:** OWN BANK THE RURAL BANK OF CAVITE CITY INC.
+- **City:** CITY OF CAVITE
+- **SWIFT code:** OWNOPHM2
+- **SWIFT branch code:** OWNOPHM2XXX
+
+## PABIPHMM
+
+- **Name:** BANK OF COMMERCE
+- **City:** CITY OF MANDALUYONG
+- **SWIFT code:** PABIPHMM
+- **SWIFT branch code:** PABIPHMMXXX
+
+## PAEYPHM2
+
+- **Name:** PAYMONGO PAYMENTS, INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** PAEYPHM2
+- **SWIFT branch code:** PAEYPHM2XXX
+
+## PAHCPHM2
+
+- **Name:** PAYNAMICS TECHNOLOGIES INC
+- **City:** MAKATI CITY
+- **SWIFT code:** PAHCPHM2
+- **SWIFT branch code:** PAHCPHM2XXX
+
+## PANIPHM1
+
+- **Name:** PAN ASIA SECURITIES CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** PANIPHM1
+- **SWIFT branch code:** PANIPHM1XXX
+
+## PAPDPHM1
+
+- **Name:** THE PALAWAN BANK (PALAWAN DEVELOPMENT BANK, INC.).
+- **City:** CITY OF PUERTO PRINCESA
+- **SWIFT code:** PAPDPHM1
+- **SWIFT branch code:** PAPDPHM1XXX
+
+## PAPHPHM1
+
+- **Name:** PAYMAYA PHILIPPINES INC.
+- **City:** CITY OF MANDALUYONG
+- **SWIFT code:** PAPHPHM1
+- **SWIFT branch code:** PAPHPHM1XXX
+
+## PAPSPHM1
+
+- **Name:** PAPA SECURITIES CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** PAPSPHM1
+- **SWIFT branch code:** PAPSPHM1XXX
+
+## PASVPHM1
+
+- **Name:** PACIFIC ACE SAVINGS BANK
+- **City:** CITY OF OLONGAPO
+- **SWIFT code:** PASVPHM1
+- **SWIFT branch code:** PASVPHM1XXX
+
+## PATPPHM1
+
+- **Name:** PACIFIC ASIAN ATLANTIC CAPITAL INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PATPPHM1
+- **SWIFT branch code:** PATPPHM1XXX
+
+## PCBAPHM1
+
+- **Name:** GLOBAL BUSINESS HOLDINGS INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** PCBAPHM1
+- **SWIFT branch code:** PCBAPHM1XXX
+
+## PCBAPHM10MB
+
+- **Name:** GLOBAL BUSINESS HOLDINGS INC.
+- **City:** CITY OF MANILA
+- **Branch:** DASMARINAS BRANCH
+- **SWIFT code:** PCBAPHM10MB
+
+## PCBAPHM10MC
+
+- **Name:** GLOBAL BUSINESS HOLDINGS INC.
+- **City:** CITY OF CEBU
+- **Branch:** CEBU BRANCH
+- **SWIFT code:** PCBAPHM10MC
+
+## PCBAPHM10MD
+
+- **Name:** GLOBAL BUSINESS HOLDINGS INC.
+- **City:** CITY OF DAVAO
+- **Branch:** DAVAO BRANCH
+- **SWIFT code:** PCBAPHM10MD
+
+## PCBAPHM10MP
+
+- **Name:** GLOBAL BUSINESS HOLDINGS INC.
+- **City:** CITY OF MANILA
+- **Branch:** PORT AREA BRANCH
+- **SWIFT code:** PCBAPHM10MP
+
+## PCBAPHM10MQ
+
+- **Name:** GLOBAL BUSINESS HOLDINGS INC.
+- **City:** CITY OF QUEZON
+- **Branch:** CUBAO BRANCH
+- **SWIFT code:** PCBAPHM10MQ
+
+## PCBAPHM10MS
+
+- **Name:** GLOBAL BUSINESS HOLDINGS INC.
+- **City:** CITY OF SAN JUAN
+- **Branch:** ORTIGAS BRANCH
+- **SWIFT code:** PCBAPHM10MS
+
+## PCHCPHM1
+
+- **Name:** PHILIPPINE CLEARING HOUSE CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** PCHCPHM1
+- **SWIFT branch code:** PCHCPHM1XXX
+
+## PDAXPHM2
+
+- **Name:** PHILIPPINE DIGITAL ASSET EXCHANGE, INC. (PDAX)
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** PDAXPHM2
+- **SWIFT branch code:** PDAXPHM2XXX
+
+## PDTCPHM1
+
+- **Name:** PHILIPPINE DEPOSITORY AND TRUST CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PDTCPHM1
+- **SWIFT branch code:** PDTCPHM1XXX
+
+## PDTDPHM1
+
+- **Name:** PHILIPPINE DEPOSITORY AND TRUST CORP. (DEPOSITORY)
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PDTDPHM1
+- **SWIFT branch code:** PDTDPHM1XXX
+
+## PDTUPHM1
+
+- **Name:** PHILIPPINE DEPOSITORY AND TRUST CORP. (CUSTODY)
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PDTUPHM1
+- **SWIFT branch code:** PDTUPHM1XXX
+
+## PEPDPHM1
+
+- **Name:** PENBANK A PRIVATE DEVELOPMENT BANK
+- **City:** CITY OF GENERAL SANTOS
+- **SWIFT code:** PEPDPHM1
+- **SWIFT branch code:** PEPDPHM1XXX
+
+## PEQPPHM1
+
+- **Name:** PHILIPPINE EQUITY PARTNERS INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PEQPPHM1
+- **SWIFT branch code:** PEQPPHM1XXX
+
+## PESPPHM1
+
+- **Name:** MAYBANK ATR KIM ENG SECURITIES, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PESPPHM1
+- **SWIFT branch code:** PESPPHM1XXX
+
+## PHCBPHMA
+
+- **Name:** BANGKO SENTRAL NG PILIPINAS
+- **City:** CITY OF MANILA
+- **SWIFT code:** PHCBPHMA
+- **SWIFT branch code:** PHCBPHMAXXX
+
+## PHCBPHMB
+
+- **Name:** BANGKO SENTRAL NG PILIPINAS
+- **City:** CITY OF MANILA
+- **SWIFT code:** PHCBPHMB
+- **SWIFT branch code:** PHCBPHMBXXX
+
+## PHCBPHMC
+
+- **Name:** BANGKO SENTRAL NG PILIPINAS
+- **City:** CITY OF MANILA
+- **SWIFT code:** PHCBPHMC
+- **SWIFT branch code:** PHCBPHMCXXX
+
+## PHCBPHMD
+
+- **Name:** BANGKO SENTRAL NG PILIPINAS
+- **City:** CITY OF MANILA
+- **SWIFT code:** PHCBPHMD
+- **SWIFT branch code:** PHCBPHMDXXX
+
+## PHCBPHMM
+
+- **Name:** BANGKO SENTRAL NG PILIPINAS
+- **City:** CITY OF MANILA
+- **SWIFT code:** PHCBPHMM
+- **SWIFT branch code:** PHCBPHMMXXX
+
+## PHCCPHM1
+
+- **Name:** PHILIPPINE COMMERCIAL CAPITAL, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PHCCPHM1
+- **SWIFT branch code:** PHCCPHM1XXX
+
+## PHCDPHM1
+
+- **Name:** PHILIPPINE DEPOSITORY AND TRUST CORP
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PHCDPHM1
+- **SWIFT branch code:** PHCDPHM1XXX
+
+## PHIIPHM1
+
+- **Name:** ROBINSONS BANK CORPORATION
+- **City:** CITY OF PASIG
+- **SWIFT code:** PHIIPHM1
+- **SWIFT branch code:** PHIIPHM1XXX
+
+## PHSAPHM1
+
+- **Name:** EAST WEST BANKING CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** PHSAPHM1
+- **SWIFT branch code:** PHSAPHM1XXX
+
+## PHSBPHMM
+
+- **Name:** PHILIPPINE SAVINGS BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PHSBPHMM
+- **SWIFT branch code:** PHSBPHMMXXX
+
+## PHSVPHM1
+
+- **Name:** OVERSEAS FILIPINO BANK, INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** PHSVPHM1
+- **SWIFT branch code:** PHSVPHM1XXX
+
+## PHTBPHMM
+
+- **Name:** PHILTRUST BANK (PHILIPPINE TRUST COMPANY)
+- **City:** CITY OF MANILA
+- **SWIFT code:** PHTBPHMM
+- **SWIFT branch code:** PHTBPHMMXXX
+
+## PHVBPHMM
+
+- **Name:** PHILIPPINE VETERANS BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PHVBPHMM
+- **SWIFT branch code:** PHVBPHMMXXX
+
+## PIEIPHM1
+
+- **Name:** PIERCE INTERLINK SEC. INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** PIEIPHM1
+- **SWIFT branch code:** PIEIPHM1XXX
+
+## PLAIPHM1
+
+- **Name:** PLATINUM SECURITIES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PLAIPHM1
+- **SWIFT branch code:** PLAIPHM1XXX
+
+## PNBBPHM1
+
+- **Name:** PNB SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** PNBBPHM1
+- **SWIFT branch code:** PNBBPHM1XXX
+
+## PNBMPHMM
+
+- **Name:** PHILIPPINE NATIONAL BANK
+- **City:** CITY OF MANILA
+- **SWIFT code:** PNBMPHMM
+- **SWIFT branch code:** PNBMPHMMXXX
+
+## PNBMPHMMTOD
+
+- **Name:** PHILIPPINE NATIONAL BANK
+- **City:** CITY OF PASIG
+- **Branch:** TREASURY OPERATIONS DIVISION
+- **SWIFT code:** PNBMPHMMTOD
+
+## PNSAPHM1
+
+- **Name:** PNB SAVINGS BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PNSAPHM1
+- **SWIFT branch code:** PNSAPHM1XXX
+
+## POUAPHM2
+
+- **Name:** PROVIDENCE RURAL BANK INC.
+- **City:** CITY OF TUGUEGARAO
+- **SWIFT code:** POUAPHM2
+- **SWIFT branch code:** POUAPHM2XXX
+
+## PPBUPHMM
+
+- **Name:** PHILIPPINE BUSINESS BANK
+- **City:** CITY OF CALOOCAN
+- **SWIFT code:** PPBUPHMM
+- **SWIFT branch code:** PPBUPHMMXXX
+
+## PPOSPHM1
+
+- **Name:** PHILIPPINE POSTAL CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** PPOSPHM1
+- **SWIFT branch code:** PPOSPHM1XXX
+
+## PPSFPHM2
+
+- **Name:** PPS-PEPP FINANCIAL SERVICES CORPORATION
+- **City:** CITY OF PUERTO PRINCESA
+- **SWIFT code:** PPSFPHM2
+- **SWIFT branch code:** PPSFPHM2XXX
+
+## PRBPPH21
+
+- **Name:** PRIME MEDIA HOLDINGS, INC.
+- **City:** CITY OF CEBU
+- **SWIFT code:** PRBPPH21
+- **SWIFT branch code:** PRBPPH21XXX
+
+## PRBPPHM1
+
+- **Name:** PRIME MEDIA HOLDINGS, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** PRBPPHM1
+- **SWIFT branch code:** PRBPPHM1XXX
+
+## PRDEPHM1
+
+- **Name:** PREMIERE DEVELOPMENT BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PRDEPHM1
+- **SWIFT branch code:** PRDEPHM1XXX
+
+## PREMPHM1
+
+- **Name:** PREMIUM SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** PREMPHM1
+- **SWIFT branch code:** PREMPHM1XXX
+
+## PRNPPHM1
+
+- **Name:** PLANBANK RURAL BANK OF CANLUBANG PLANTERS, INC.
+- **City:** CITY OF CALAMBA
+- **SWIFT code:** PRNPPHM1
+- **SWIFT branch code:** PRNPPHM1XXX
+
+## PROTPHM1
+
+- **Name:** PROBITY SECURITIES MANAGEMENT CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** PROTPHM1
+- **SWIFT branch code:** PROTPHM1XXX
+
+## PRTOPHM1
+
+- **Name:** PARTNER RURAL BANK (COTABATO), INC.
+- **City:** CITY OF KIDAPAWAN
+- **SWIFT code:** PRTOPHM1
+- **SWIFT branch code:** PRTOPHM1XXX
+
+## PSBOPHM1
+
+- **Name:** PCCI SECURITIES BROKERS CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PSBOPHM1
+- **SWIFT branch code:** PSBOPHM1XXX
+
+## PSCOPHM1
+
+- **Name:** PRODUCERS SAVINGS BANK CORPORATION
+- **City:** CITY OF PASIG
+- **SWIFT code:** PSCOPHM1
+- **SWIFT branch code:** PSCOPHM1XXX
+
+## PUBLPHM1
+
+- **Name:** SALISBURY BKT SECURITIES CORPORATION (FORMERLY: PUBLIC SECURITIES CORPORATION)
+- **City:** CITY OF MAKATI
+- **SWIFT code:** PUBLPHM1
+- **SWIFT branch code:** PUBLPHM1XXX
+
+## QCDFPHM1
+
+- **Name:** QUEEN CITY DEVELOPMENT BANK
+- **City:** CITY OF ILOILO
+- **SWIFT code:** QCDFPHM1
+- **SWIFT branch code:** QCDFPHM1XXX
+
+## QCRIPHM1
+
+- **Name:** QUEZON CAPITAL RURAL BANK, INCORPORATED
+- **City:** CITY OF LUCENA
+- **SWIFT code:** QCRIPHM1
+- **SWIFT branch code:** QCRIPHM1XXX
+
+## QUISPHM1
+
+- **Name:** QUALITY INVESTMENT AND SECURITIES CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** QUISPHM1
+- **SWIFT branch code:** QUISPHM1XXX
+
+## QWBSPHM2
+
+- **Name:** QWIKWIRE BILLING SYSTEMS INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** QWBSPHM2
+- **SWIFT branch code:** QWBSPHM2XXX
+
+## RARLPHM1
+
+- **Name:** RANG-AY BANK (A RURAL BANK), INC.
+- **City:** CITY OF SAN FERNANDO
+- **SWIFT code:** RARLPHM1
+- **SWIFT branch code:** RARLPHM1XXX
+
+## RBCYPHM1
+
+- **Name:** RURAL BANK OF CAUAYAN INC.
+- **City:** CITY OF CAUAYAN
+- **SWIFT code:** RBCYPHM1
+- **SWIFT branch code:** RBCYPHM1XXX
+
+## RBRUPHM2
+
+- **Name:** RBT BANK, INC., A RURAL BANK
+- **City:** CITY OF CAGAYAN DE ORO
+- **SWIFT code:** RBRUPHM2
+- **SWIFT branch code:** RBRUPHM2XXX
+
+## RCBCPH21
+
+- **Name:** RIZAL COMMERCIAL BANKING CORPORATION
+- **City:** CITY OF MAKATI
+- **Branch:** FOREIGN CURRENCY DEPOSIT UNIT - FCDU
+- **SWIFT code:** RCBCPH21
+- **SWIFT branch code:** RCBCPH21XXX
+
+## RCBCPHMM
+
+- **Name:** RIZAL COMMERCIAL BANKING CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** RCBCPHMM
+- **SWIFT branch code:** RCBCPHMMXXX
+
+## RCCOPHM1
+
+- **Name:** RCBC CAPITAL CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** RCCOPHM1
+- **SWIFT branch code:** RCCOPHM1XXX
+
+## RCSAPHM1
+
+- **Name:** RCBC SAVINGS BANK, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** RCSAPHM1
+- **SWIFT branch code:** RCSAPHM1XXX
+
+## REGIPHM1
+
+- **Name:** REGINA CAPITAL DEVELOPMENT CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** REGIPHM1
+- **SWIFT branch code:** REGIPHM1XXX
+
+## RETHPHM1
+
+- **Name:** BDO UNIBANK, INC.
+- **City:** CITY OF QUEZON
+- **SWIFT code:** RETHPHM1
+- **SWIFT branch code:** RETHPHM1XXX
+
+## RFCAPHM1
+
+- **Name:** RFM CAPITAL LIMITED
+- **City:** CITY OF MANILA
+- **SWIFT code:** RFCAPHM1
+- **SWIFT branch code:** RFCAPHM1XXX
+
+## RLSKPHM1
+
+- **Name:** RURAL BANK OF LEBAK (SULTAN KUDARAT) INC.
+- **City:** CITY OF TACURONG
+- **SWIFT code:** RLSKPHM1
+- **SWIFT branch code:** RLSKPHM1XXX
+
+## RLSUPHM2
+
+- **Name:** RURAL BANK OF LANUZA (SURIGAO DEL SUR), INC.
+- **City:** CITY OF BISLIG
+- **SWIFT code:** RLSUPHM2
+- **SWIFT branch code:** RLSUPHM2XXX
+
+## RNWAPHM1
+
+- **Name:** RURAL BANK OF NEW WASHINGTON (AKLAN) INC.
+- **City:** NEW WASHINGTON
+- **SWIFT code:** RNWAPHM1
+- **SWIFT branch code:** RNWAPHM1XXX
+
+## ROBPPHMQ
+
+- **Name:** ROBINSONS BANK CORPORATION
+- **City:** CITY OF QUEZON
+- **SWIFT code:** ROBPPHMQ
+- **SWIFT branch code:** ROBPPHMQXXX
+
+## RPBAPHM1
+
+- **Name:** MAYBANK PHILIPPINES, INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** RPBAPHM1
+- **SWIFT branch code:** RPBAPHM1XXX
+
+## RPBUPHM1
+
+- **Name:** RURAL BANK OF PANDI (BULACAN), INC.
+- **City:** PANDI
+- **SWIFT code:** RPBUPHM1
+- **SWIFT branch code:** RPBUPHM1XXX
+
+## RPMOPHM1
+
+- **Name:** RURAL BANK OF PANA-ON (MIS. OCC.) INC.
+- **City:** CITY OF OZAMIZ
+- **SWIFT code:** RPMOPHM1
+- **SWIFT branch code:** RPMOPHM1XXX
+
+## RSJCPHM1
+
+- **Name:** RURAL BANK OF SAN JOSE (CAMARINES SUR), INC.
+- **City:** CITY OF SAN ANTONIO
+- **SWIFT code:** RSJCPHM1
+- **SWIFT branch code:** RSJCPHM1XXX
+
+## RSLSPHM1
+
+- **Name:** RURAL BANK OF SAN LUIS (BATANGAS),
+- **City:** CITY OF ANGELES
+- **SWIFT code:** RSLSPHM1
+- **SWIFT branch code:** RSLSPHM1XXX
+
+## RSMCPHM2
+
+- **Name:** RURAL BANK OF SANCHEZ MIRA CAGAYAN INC.
+- **City:** CITY OF TUGUEGARAO
+- **SWIFT code:** RSMCPHM2
+- **SWIFT branch code:** RSMCPHM2XXX
+
+## RSMSPHM2
+
+- **Name:** RURAL BANK OF SAN MATEO (ISABELA) INC
+- **City:** CITY OF TUGUEGARAO
+- **SWIFT code:** RSMSPHM2
+- **SWIFT branch code:** RSMSPHM2XXX
+
+## RSNAPHM2
+
+- **Name:** RURAL BANK OF SAN NARCISO, INC.
+- **City:** ZAMBALES
+- **SWIFT code:** RSNAPHM2
+- **SWIFT branch code:** RSNAPHM2XXX
+
+## RTGCPHM1
+
+- **Name:** RTG AND CO. INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** RTGCPHM1
+- **SWIFT branch code:** RTGCPHM1XXX
+
+## RUATPHM1
+
+- **Name:** RURAL BANK OF ATIMONAN, INC.
+- **City:** CITY OF QUEZON
+- **SWIFT code:** RUATPHM1
+- **SWIFT branch code:** RUATPHM1XXX
+
+## RUBCPHM2
+
+- **Name:** RURAL BANK OF BACOLOD CITY, INC.
+- **City:** CITY OF BACOLO
+- **SWIFT code:** RUBCPHM2
+- **SWIFT branch code:** RUBCPHM2XXX
+
+## RUBUPHM2
+
+- **Name:** RURAL BANK OF BAUANG INC
+- **City:** CITY OF SAN FERNANDO
+- **SWIFT code:** RUBUPHM2
+- **SWIFT branch code:** RUBUPHM2XXX
+
+## RUBYPHM2
+
+- **Name:** RURAL BANK OF BAY, INC.
+- **City:** CITY OF SAN PABLO
+- **SWIFT code:** RUBYPHM2
+- **SWIFT branch code:** RUBYPHM2XXX
+
+## RUCAPHM1
+
+- **Name:** CAMALIG BANK INC. (A RURAL BANK)
+- **City:** City of Legazpi
+- **SWIFT code:** RUCAPHM1
+- **SWIFT branch code:** RUCAPHM1XXX
+
+## RUDIPHM1
+
+- **Name:** RURAL BANK OF DIGOS, INC
+- **City:** CITY OF DIGOS
+- **SWIFT code:** RUDIPHM1
+- **SWIFT branch code:** RUDIPHM1XXX
+
+## RUGUPHM1
+
+- **Name:** RURAL BANK OF GUINOBATAN, INC.
+- **City:** GUINOBATAN
+- **SWIFT code:** RUGUPHM1
+- **SWIFT branch code:** RUGUPHM1XXX
+
+## RUHLPHM2
+
+- **Name:** RURAL BANK OF HILONGOS (LEYTE), INC
+- **City:** CITY OF TACLOBAN
+- **SWIFT code:** RUHLPHM2
+- **SWIFT branch code:** RUHLPHM2XXX
+
+## RUIEPHM2
+
+- **Name:** RURAL BANK OF ITOGON (BENGUET), INC
+- **City:** CITY OF BAGUIO
+- **SWIFT code:** RUIEPHM2
+- **SWIFT branch code:** RUIEPHM2XXX
+
+## RUJAPHM1
+
+- **Name:** RURAL BANK OF JAEN, INC.
+- **City:** CITY OF GAPAN
+- **SWIFT code:** RUJAPHM1
+- **SWIFT branch code:** RUJAPHM1XXX
+
+## RUKBPHM1
+
+- **Name:** RURAL BANK OF KIBAWE (BUKIDNON),INC
+- **City:** CITY OF VALENCIA
+- **SWIFT code:** RUKBPHM1
+- **SWIFT branch code:** RUKBPHM1XXX
+
+## RUKSPHM1
+
+- **Name:** RURAL BANK OF KIAMBA (SARANGANI) INC.
+- **City:** CITY OF KIAMBA
+- **SWIFT code:** RUKSPHM1
+- **SWIFT branch code:** RUKSPHM1XXX
+
+## RUMAPHM1
+
+- **Name:** RURAL BANK OF MABALACAT, INC.
+- **City:** CITY OF MABALACAT
+- **SWIFT code:** RUMAPHM1
+- **SWIFT branch code:** RUMAPHM1XXX
+
+## RUMDPHM1
+
+- **Name:** RURAL BANK OF MIDSAYAP, INC.
+- **City:** CITY OF KIDAPAWAN
+- **SWIFT code:** RUMDPHM1
+- **SWIFT branch code:** RUMDPHM1XXX
+
+## RUMIPHM1
+
+- **Name:** RURAL BANK OF MIAGAO (ILOILO), INC.
+- **City:** CITY OF ILOILO
+- **SWIFT code:** RUMIPHM1
+- **SWIFT branch code:** RUMIPHM1XXX
+
+## RUMNPHM1
+
+- **Name:** RURAL BANK OF MANGALDAN, INC.
+- **City:** CITY OF URDANETA
+- **SWIFT code:** RUMNPHM1
+- **SWIFT branch code:** RUMNPHM1XXX
+
+## RUMTPHM2
+
+- **Name:** RURAL BANK OF MONTALBAN, INC.
+- **City:** CITY OF ANTIPOLO
+- **SWIFT code:** RUMTPHM2
+- **SWIFT branch code:** RUMTPHM2XXX
+
+## RUODPHM1
+
+- **Name:** MANOR BANK - A RURAL BANK CORP
+- **City:** CITY OF BATANGAS
+- **SWIFT code:** RUODPHM1
+- **SWIFT branch code:** RUODPHM1XXX
+
+## RUPAPHM1
+
+- **Name:** RURAL BANK OF PAGBILAO INC.
+- **City:** CITY OF LUCENA
+- **SWIFT code:** RUPAPHM1
+- **SWIFT branch code:** RUPAPHM1XXX
+
+## RUPIPHM1
+
+- **Name:** BANGKO RURAL NG PASACAO (CAMARINES SUR) INC
+- **City:** PASACAO
+- **SWIFT code:** RUPIPHM1
+- **SWIFT branch code:** RUPIPHM1XXX
+
+## RUPPPHM2
+
+- **Name:** RURAL BANK OF PORAC (PAMP), INC.
+- **City:** CITY OF ANGELES
+- **SWIFT code:** RUPPPHM2
+- **SWIFT branch code:** RUPPPHM2XXX
+
+## RUPZPHM2
+
+- **Name:** RURAL BANK OF LA PAZ, INC.
+- **City:** CITY OF TARLAC
+- **SWIFT code:** RUPZPHM2
+- **SWIFT branch code:** RUPZPHM2XXX
+
+## RURLPHM2
+
+- **Name:** BANKWAYS, INC. (A RURAL BANK)
+- **City:** CITY OF CEBU
+- **SWIFT code:** RURLPHM2
+- **SWIFT branch code:** RURLPHM2XXX
+
+## RURUPHM2
+
+- **Name:** RURAL BANK OF ROSARIO (LA UNION)INC
+- **City:** CITY OF SAN FERNANDO
+- **SWIFT code:** RURUPHM2
+- **SWIFT branch code:** RURUPHM2XXX
+
+## RUSGPHM1
+
+- **Name:** RURAL BANK OF STA. IGNACIA, INC.
+- **City:** CITY OF TARLAC
+- **SWIFT code:** RUSGPHM1
+- **SWIFT branch code:** RUSGPHM1XXX
+
+## RUSNPHM2
+
+- **Name:** RURAL BANK OF SOLANO (N.V.),INC.
+- **City:** CITY OF SOLANO
+- **SWIFT code:** RUSNPHM2
+- **SWIFT branch code:** RUSNPHM2XXX
+
+## RUSTPHM2
+
+- **Name:** RURAL BANK OF SILAY CITY, INC.
+- **City:** SILAY CITY
+- **SWIFT code:** RUSTPHM2
+- **SWIFT branch code:** RUSTPHM2XXX
+
+## RUSYPHM2
+
+- **Name:** RURAL BANK OF SAGAY, INC.
+- **City:** CITY OF SAGAY
+- **SWIFT code:** RUSYPHM2
+- **SWIFT branch code:** RUSYPHM2XXX
+
+## RUTCPHM1
+
+- **Name:** RURAL BANK OF TANGUB CITY INC.
+- **City:** CITY OF TANGUB
+- **SWIFT code:** RUTCPHM1
+- **SWIFT branch code:** RUTCPHM1XXX
+
+## RUTNPHM1
+
+- **Name:** RURAL BANK OF TANJAY, INC.
+- **City:** CITY OF TANJAY
+- **SWIFT code:** RUTNPHM1
+- **SWIFT branch code:** RUTNPHM1XXX
+
+## SAPPPHM1
+
+- **Name:** SAPPHIRE SECURITIES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** SAPPPHM1
+- **SWIFT branch code:** SAPPPHM1XXX
+
+## SAUAPHM1
+
+- **Name:** SAVIOUR RURAL BANK, INC.
+- **City:** LUBAO
+- **SWIFT code:** SAUAPHM1
+- **SWIFT branch code:** SAUAPHM1XXX
+
+## SAVRPHM1
+
+- **Name:** BANCO SAN VICENTE, INC. (A RURAL BANK)
+- **City:** CITY OF PUERTO PRINCESA
+- **SWIFT code:** SAVRPHM1
+- **SWIFT branch code:** SAVRPHM1XXX
+
+## SCBLPHMM
+
+- **Name:** STANDARD CHARTERED BANK
+- **City:** CITY OF MAKATI
+- **SWIFT code:** SCBLPHMM
+- **SWIFT branch code:** SCBLPHMMXXX
+
+## SCBLPHMMEQI
+
+- **Name:** STANDARD CHARTERED BANK
+- **City:** CITY OF MAKATI
+- **Branch:** CUSTODIAL DEPARTMENT
+- **SWIFT code:** SCBLPHMMEQI
+
+## SECLPHM1
+
+- **Name:** SECURITIES SPECIALISTS INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** SECLPHM1
+- **SWIFT branch code:** SECLPHM1XXX
+
+## SECTPHM1
+
+- **Name:** SAMSUNG ELECTRONICS PHILIPPINES CORP.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** SECTPHM1
+- **SWIFT branch code:** SECTPHM1XXX
+
+## SECTPHM15B0
+
+- **Name:** SAMSUNG ELECTRONICS PHILIPPINES CORP.
+- **City:** CITY OF TAGUIG
+- **Branch:** SEPCO
+- **SWIFT code:** SECTPHM15B0
+
+## SECTPHM15B1
+
+- **Name:** SAMSUNG ELECTRONICS PHILIPPINES CORP.
+- **City:** CITY OF CALAMBA
+- **Branch:** SEPHIL
+- **SWIFT code:** SECTPHM15B1
+
+## SERTPHM1
+
+- **Name:** G AND L SECURITIES CO., INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** SERTPHM1
+- **SWIFT branch code:** SERTPHM1XXX
+
+## SETCPHMM
+
+- **Name:** SECURITY BANK CORPORATION
+- **City:** CITY OF MAKATI
+- **SWIFT code:** SETCPHMM
+- **SWIFT branch code:** SETCPHMMXXX
+
+## SEUUPHM1
+
+- **Name:** A AND A SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** SEUUPHM1
+- **SWIFT branch code:** SEUUPHM1XXX
+
+## SGSEPHM1
+
+- **Name:** SG SECURITIES (PHILIPPINES),INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** SGSEPHM1
+- **SWIFT branch code:** SGSEPHM1XXX
+
+## SHBKPHMM
+
+- **Name:** SHINHAN BANK MANILA BRANCH
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** SHBKPHMM
+- **SWIFT branch code:** SHBKPHMMXXX
+
+## SHPHPHM2
+
+- **Name:** SHOPEEPAY PHILIPPINES, INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** SHPHPHM2
+- **SWIFT branch code:** SHPHPHM2XXX
+
+## SJROPHM1
+
+- **Name:** S.J. ROXAS AND COMPANY, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** SJROPHM1
+- **SWIFT branch code:** SJROPHM1XXX
+
+## SMBCPHMM
+
+- **Name:** SUMITOMO MITSUI BANKING CORPORATION MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** SMBCPHMM
+- **SWIFT branch code:** SMBCPHMMXXX
+
+## SOLRPHM1
+
+- **Name:** SOLAR SECURITIES INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** SOLRPHM1
+- **SWIFT branch code:** SOLRPHM1XXX
+
+## SOTTPHM1
+
+- **Name:** SOUTH BANK INC
+- **City:** CITY OF CAGAYAN DE ORO
+- **SWIFT code:** SOTTPHM1
+- **SWIFT branch code:** SOTTPHM1XXX
+
+## SPEYPHM2
+
+- **Name:** SPEEDYPAY INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** SPEYPHM2
+- **SWIFT branch code:** SPEYPHM2XXX
+
+## SRCPPHM2
+
+- **Name:** STARPAY CORPORATION
+- **City:** CITY OF PASIG
+- **SWIFT code:** SRCPPHM2
+- **SWIFT branch code:** SRCPPHM2XXX
+
+## SRLCPHM1
+
+- **Name:** SUMMIT RURAL BANK OF LIPA CITY, INC
+- **City:** CITY OF LIPA
+- **SWIFT code:** SRLCPHM1
+- **SWIFT branch code:** SRLCPHM1XXX
+
+## SSSTPHM1
+
+- **Name:** SYSTEMS STANDARDS INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** SSSTPHM1
+- **SWIFT branch code:** SSSTPHM1XXX
+
+## STACPHM1
+
+- **Name:** STANDARD SECURITIES CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** STACPHM1
+- **SWIFT branch code:** STACPHM1XXX
+
+## STIUPHM1
+
+- **Name:** STATE INVESTMENT TRUST, INC.
+- **City:** CITY OF MANDALUYONG
+- **SWIFT code:** STIUPHM1
+- **SWIFT branch code:** STIUPHM1XXX
+
+## STLAPH22
+
+- **Name:** STERLING BANK OF ASIA INC.(A SAVINGS BANK)
+- **City:** CITY OF SAN JUAN
+- **SWIFT code:** STLAPH22
+- **SWIFT branch code:** STLAPH22XXX
+
+## SUIRPHM1
+
+- **Name:** SQUIRE SECURITIES, INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** SUIRPHM1
+- **SWIFT branch code:** SUIRPHM1XXX
+
+## SUMMPHM1
+
+- **Name:** SUMMIT SECURITIES INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** SUMMPHM1
+- **SWIFT branch code:** SUMMPHM1XXX
+
+## SUPMPHM1
+
+- **Name:** SUPREME STOCKBROKER INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** SUPMPHM1
+- **SWIFT branch code:** SUPMPHM1XXX
+
+## SUSVPHM1
+
+- **Name:** SUN SAVINGS BANK
+- **City:** CITY OF TALISAY
+- **SWIFT code:** SUSVPHM1
+- **SWIFT branch code:** SUSVPHM1XXX
+
+## SWDEPHM1
+
+- **Name:** UBS SECURITIES PHILIPPINES INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** SWDEPHM1
+- **SWIFT branch code:** SWDEPHM1XXX
+
+## TACBPHMM
+
+- **Name:** TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH
+- **City:** CITY OF MANILA
+- **SWIFT code:** TACBPHMM
+- **SWIFT branch code:** TACBPHMMXXX
+
+## TAGCPHM2
+
+- **Name:** TAGCASH LTD. INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** TAGCPHM2
+- **SWIFT branch code:** TAGCPHM2XXX
+
+## TANGPHM1
+
+- **Name:** TANSENGCO AND COMPANY INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** TANGPHM1
+- **SWIFT branch code:** TANGPHM1XXX
+
+## TANNPHM1
+
+- **Name:** G.D. TAN AND CO INC
+- **City:** CITY OF MAKATI
+- **SWIFT code:** TANNPHM1
+- **SWIFT branch code:** TANNPHM1XXX
+
+## TAYOPHM2
+
+- **Name:** TAYOCASH INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** TAYOPHM2
+- **SWIFT branch code:** TAYOPHM2XXX
+
+## TFSHPHM1
+
+- **Name:** TOYOTA FINANCIAL SERVICES PHILIPPINES, CORP.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** TFSHPHM1
+- **SWIFT branch code:** TFSHPHM1XXX
+
+## TIOCPHM1
+
+- **Name:** UY-TIOCO AND CO. INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** TIOCPHM1
+- **SWIFT branch code:** TIOCPHM1XXX
+
+## TLBPPHM10M2
+
+- **Name:** LAND BANK OF THE PHILIPPINES
+- **City:** CITY OF DAVAO
+- **SWIFT code:** TLBPPHM10M2
+
+## TLBPPHM10M3
+
+- **Name:** LAND BANK OF THE PHILIPPINES
+- **City:** CITY OF ILOILO
+- **SWIFT code:** TLBPPHM10M3
+
+## TLBPPHM10M4
+
+- **Name:** LAND BANK OF THE PHILIPPINES
+- **City:** CITY OF GENERAL SANTOS
+- **SWIFT code:** TLBPPHM10M4
+
+## TLBPPHM10MC
+
+- **Name:** LAND BANK OF THE PHILIPPINES
+- **City:** CITY OF CEBU
+- **SWIFT code:** TLBPPHM10MC
+
+## TLBPPHM10MQ
+
+- **Name:** LAND BANK OF THE PHILIPPINES
+- **City:** CITY OF QUEZON
+- **SWIFT code:** TLBPPHM10MQ
+
+## TLBPPHMM
+
+- **Name:** LAND BANK OF THE PHILIPPINES
+- **City:** CITY OF MANILA
+- **SWIFT code:** TLBPPHMM
+- **SWIFT branch code:** TLBPPHMMXXX
+
+## TODGPHM2
+
+- **Name:** TONIK DIGITAL BANK, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** TODGPHM2
+- **SWIFT branch code:** TODGPHM2XXX
+
+## TOKTPHM2
+
+- **Name:** TOKTOKWALLET INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** TOKTPHM2
+- **SWIFT branch code:** TOKTPHM2XXX
+
+## TOPJPHM2
+
+- **Name:** TOPJUAN TECH CORPORATION
+- **City:** CITY OF MANILA
+- **SWIFT code:** TOPJPHM2
+- **SWIFT branch code:** TOPJPHM2XXX
+
+## TOWRPHM1
+
+- **Name:** TOWER SECURITIES INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** TOWRPHM1
+- **SWIFT branch code:** TOWRPHM1XXX
+
+## TRAAPHM1
+
+- **Name:** TRANS-ASIA SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** TRAAPHM1
+- **SWIFT branch code:** TRAAPHM1XXX
+
+## TRBFPHM1
+
+- **Name:** TRADERS ROYAL BANK
+- **City:** CITY OF PASAY
+- **SWIFT code:** TRBFPHM1
+- **SWIFT branch code:** TRBFPHM1XXX
+
+## TRENPHM1
+
+- **Name:** TRENDLINE SECURITIES CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** TRENPHM1
+- **SWIFT branch code:** TRENPHM1XXX
+
+## TRITPHM1
+
+- **Name:** TRI-STATE SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** TRITPHM1
+- **SWIFT branch code:** TRITPHM1XXX
+
+## TRULPHM1
+
+- **Name:** TIAONG RURAL BANK, INC.
+- **City:** CITY OF TAYABAS
+- **SWIFT code:** TRULPHM1
+- **SWIFT branch code:** TRULPHM1XXX
+
+## TRXPPHM2
+
+- **Name:** TRAXION PAY INC
+- **City:** CITY OF PASIG
+- **SWIFT code:** TRXPPHM2
+- **SWIFT branch code:** TRXPPHM2XXX
+
+## TWENPHM1
+
+- **Name:** DEUTSCHE REGIS PARTNERS INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** TWENPHM1
+- **SWIFT branch code:** TWENPHM1XXX
+
+## TYBKPHMM
+
+- **Name:** YUANTA SAVINGS BANK (FORMERLY TONGYANG SAVINGS BANK)
+- **City:** CITY OF MANILA
+- **SWIFT code:** TYBKPHMM
+- **SWIFT branch code:** TYBKPHMMXXX
+
+## UBPHPHMM
+
+- **Name:** UNION BANK OF THE PHILIPPINES
+- **City:** CITY OF PASIG
+- **SWIFT code:** UBPHPHMM
+- **SWIFT branch code:** UBPHPHMMXXX
+
+## UBPPPHM1
+
+- **Name:** UBP SECURITIES INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** UBPPPHM1
+- **SWIFT branch code:** UBPPPHM1XXX
+
+## UCSEPHM1
+
+- **Name:** UNICAPITAL SECURITIES,INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** UCSEPHM1
+- **SWIFT branch code:** UCSEPHM1XXX
+
+## UCSVPHM1
+
+- **Name:** UCPB SAVINGS BANK, INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** UCSVPHM1
+- **SWIFT branch code:** UCSVPHM1XXX
+
+## UKHCPHM1
+
+- **Name:** UOB-KAY HIAN SECURITIES (PHILIPPINES), INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** UKHCPHM1
+- **SWIFT branch code:** UKHCPHM1XXX
+
+## UNOBPHM2
+
+- **Name:** UNOBANK INC.
+- **City:** CITY OF TAGUIG
+- **SWIFT code:** UNOBPHM2
+- **SWIFT branch code:** UNOBPHM2XXX
+
+## UNODPHM2
+
+- **Name:** UNIONDIGITAL BANK INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** UNODPHM2
+- **SWIFT branch code:** UNODPHM2XXX
+
+## UNRPPHMM
+
+- **Name:** UNIVERSAL ROBINA CORPORATION
+- **City:** CITY OF QUEZON
+- **SWIFT code:** UNRPPHMM
+- **SWIFT branch code:** UNRPPHMMXXX
+
+## UOVBPHMM
+
+- **Name:** UNITED OVERSEAS BANK LIMITED - MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** UOVBPHMM
+- **SWIFT branch code:** UOVBPHMMXXX
+
+## USMEPHM2
+
+- **Name:** USSC MONEY SERVICES INC
+- **City:** CITY OF QUEZON
+- **SWIFT code:** USMEPHM2
+- **SWIFT branch code:** USMEPHM2XXX
+
+## UWCBPHMM
+
+- **Name:** CATHAY UNITED BANK CO., LTD. MANILA BRANCH
+- **City:** CITY OF MAKATI
+- **SWIFT code:** UWCBPHMM
+- **SWIFT branch code:** UWCBPHMMXXX
+
+## VADVPHM1
+
+- **Name:** 1ST VALLEY BANK INC., A DEVELOPMENT BANK
+- **City:** CITY OF CAGAYAN DE ORO
+- **SWIFT code:** VADVPHM1
+- **SWIFT branch code:** VADVPHM1XXX
+
+## VENTPHM1
+
+- **Name:** VENTURE SECURITIES INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** VENTPHM1
+- **SWIFT branch code:** VENTPHM1XXX
+
+## VGBCPHM1
+
+- **Name:** VIGAN BANCO RURAL INCORPORADA
+- **City:** CITY OF VIGAN
+- **SWIFT code:** VGBCPHM1
+- **SWIFT branch code:** VGBCPHM1XXX
+
+## VICAPHM1
+
+- **Name:** VICSAL SECURITIES AND STOCKS BROKERAGE INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** VICAPHM1
+- **SWIFT branch code:** VICAPHM1XXX
+
+## VICGPHM1
+
+- **Name:** VICENTE GOQUIOLAY AND CO., INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** VICGPHM1
+- **SWIFT branch code:** VICGPHM1XXX
+
+## WEASPHM1
+
+- **Name:** WEALTH SECURITIES INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** WEASPHM1
+- **SWIFT branch code:** WEASPHM1XXX
+
+## WEDVPHM1
+
+- **Name:** WEALTH DEVELOPMENT BANK
+- **City:** CITY OF CEBU
+- **SWIFT code:** WEDVPHM1
+- **SWIFT branch code:** WEDVPHM1XXX
+
+## WERAPHM2
+
+- **Name:** WELCOME BANK, RURAL BANK INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** WERAPHM2
+- **SWIFT branch code:** WERAPHM2XXX
+
+## WICAPHM1
+
+- **Name:** INDOSUEZ W.I. CARR SECURITIES (PHILIPPINES) INC.
+- **City:** CITY OF MAKATI
+- **SWIFT code:** WICAPHM1
+- **SWIFT branch code:** WICAPHM1XXX
+
+## WISPPHM1
+
+- **Name:** WORLDSEC INTERNATIONAL SECURITIES PHILIPPINES INC
+- **City:** CITY OF MANILA
+- **SWIFT code:** WISPPHM1
+- **SWIFT branch code:** WISPPHM1XXX
+
+## WOLFPHM1
+
+- **Name:** WOLFF AND CO. INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** WOLFPHM1
+- **SWIFT branch code:** WOLFPHM1XXX
+
+## WONGPHM1
+
+- **Name:** WONG SECURITIES CORP.
+- **City:** CITY OF MANILA
+- **SWIFT code:** WONGPHM1
+- **SWIFT branch code:** WONGPHM1XXX
+
+## WOPAPHM1
+
+- **Name:** WORLD PARTNERS BANK
+- **City:** CITY OF SAN PEDRO
+- **SWIFT code:** WOPAPHM1
+- **SWIFT branch code:** WOPAPHM1XXX
+
+## XPHSPHM1
+
+- **Name:** PHILIPPINE STOCK EXCHANGE, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** XPHSPHM1
+- **SWIFT branch code:** XPHSPHM1XXX
+
+## YAOZPHM1
+
+- **Name:** YAO AND ZIALCITA INC.
+- **City:** CITY OF MANILA
+- **SWIFT code:** YAOZPHM1
+- **SWIFT branch code:** YAOZPHM1XXX
+
+## YAPSPHM1
+
+- **Name:** F. YAP SECURITIES INC
+- **City:** CITY OF PASIG
+- **SWIFT code:** YAPSPHM1
+- **SWIFT branch code:** YAPSPHM1XXX
+
+## YAPTPHM1
+
+- **Name:** YAPTINCHAY SEC. INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** YAPTPHM1
+- **SWIFT branch code:** YAPTPHM1XXX
+
+## YUOYPHM1
+
+- **Name:** YU AND COMPANY, INC.
+- **City:** CITY OF PASIG
+- **SWIFT code:** YUOYPHM1
+- **SWIFT branch code:** YUOYPHM1XXX
+
+## ZACRPHM1
+
+- **Name:** ZAMBOANGA CITY RURAL BANK, INC.
+- **City:** CITY OF ZAMBOANGA
+- **SWIFT code:** ZACRPHM1
+- **SWIFT branch code:** ZACRPHM1XXX
+
+## ZARUPHM1
+
+- **Name:** ZAMBALES RURAL BANK, INC.
+- **City:** CITY OF OLONGAPO
+- **SWIFT code:** ZARUPHM1
+- **SWIFT branch code:** ZARUPHM1XXX
+
+## ZBTEPHM2
+
+- **Name:** ZYBI TECH INC.
+- **City:** CITY OF PASAY
+- **SWIFT code:** ZBTEPHM2
+- **SWIFT branch code:** ZBTEPHM2XXX

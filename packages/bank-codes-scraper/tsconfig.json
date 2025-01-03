@@ -1,0 +1,6 @@
+{
+  "extends": ["@macalinao/tsconfig/tsconfig.node.json"],
+  "compilerOptions": {
+    "isolatedDeclarations": false
+  }
+}
