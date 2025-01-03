@@ -22,7 +22,3 @@ To view a full list of bank codes in human-readable format, you can view the [fu
 ## License
 
 [Apache-2.0](LICENSE.txt)
-
-```
-
-```
