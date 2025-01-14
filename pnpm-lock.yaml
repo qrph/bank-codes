@@ -37,8 +37,8 @@ importers:
         specifier: ^4.0.1
         version: 4.0.1(typescript@5.7.2)
       '@macalinao/tsconfig':
-        specifier: ^3.0.0
-        version: 3.0.0
+        specifier: ^3.1.0
+        version: 3.1.0
       eslint:
         specifier: ^9.17.0
         version: 9.17.0
@@ -59,8 +59,8 @@ importers:
         specifier: ^4.0.1
         version: 4.0.1(typescript@5.7.2)
       '@macalinao/tsconfig':
-        specifier: ^3.0.0
-        version: 3.0.0
+        specifier: ^3.1.0
+        version: 3.1.0
       '@types/node':
         specifier: ^22.10.5
         version: 22.10.5
@@ -192,8 +192,8 @@ packages:
   '@macalinao/eslint-config@4.0.1':
     resolution: {integrity: sha512-YlMblfLJ+uViH9QAHeukGc7SrLL9ygU5rNQjWstgfbJ6eujd5twbK4yN5YNj11Lcgz+0PBqECroulf7NA8dHuw==}
 
-  '@macalinao/tsconfig@3.0.0':
-    resolution: {integrity: sha512-5ZF2ZZghFoF3LXJZQejsaVVd5qtBYlOUz631wJcyOlh46JuQg1/4o/WjH9HovMdyuD1/suEUA56r1KAQ2oSjCw==}
+  '@macalinao/tsconfig@3.1.0':
+    resolution: {integrity: sha512-e7oRnVaxxqB7zlB6KpjVNs69Zza/kV1WSgJ2g+CxgSMw0PFNLKFdV10QnkoGJcyBoaxjwFDue0ZCawFDiXwORA==}
 
   '@manypkg/find-root@1.1.0':
     resolution: {integrity: sha512-mki5uBvhHzO8kYYix/WRy2WX8S3B5wdVSc9D6KcU5lQNglP2yt58/VfLuAK49glRXChosY8ap2oJ1qgma3GUVA==}
@@ -1529,7 +1529,7 @@ snapshots:
       - supports-color
       - typescript
 
-  '@macalinao/tsconfig@3.0.0': {}
+  '@macalinao/tsconfig@3.1.0': {}
 
   '@manypkg/find-root@1.1.0':
     dependencies:
