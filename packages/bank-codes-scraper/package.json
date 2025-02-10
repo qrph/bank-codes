@@ -23,7 +23,7 @@
     "@macalinao/eslint-config": "^4.0.1",
     "@macalinao/tsconfig": "^3.0.0",
     "@types/node": "^22.10.5",
-    "eslint": "^9.17.0",
+    "eslint": "^9.20.0",
     "typescript": "^5.7.2"
   },
   "main": "dist/index.js",
